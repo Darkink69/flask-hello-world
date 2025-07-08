@@ -13,11 +13,14 @@ def handle_request():
     response = {
         name: True,
         "chatId": int(chat_id),
-        "data": {}
+        "data": {
+            "login": True,
+            "chat_id" : int(chat_id)
+        }
     }
 
     return jsonify(response)
 
 @app.route('/about')
 def about():
-    return 'About'
+    return 'About...'
