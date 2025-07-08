@@ -9,7 +9,6 @@ def handle_request():
     chat_id = request.args.get('id', default='0')
     item = request.args.get('item', default='')
 
-    # Формируем ответ
     response = {
         name: True,
         "chatId": int(chat_id),
