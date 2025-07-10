@@ -1,23 +1,8 @@
 import redis
 
-# r = redis.Redis(
-#     host='redis-14960.c81.us-east-1-2.ec2.redns.redis-cloud.com',
-#     port=14960,
-#     decode_responses=True,
-#     username="default",
-#     password="XbgQFnKXv4iW3w2ExSH5fTX3nId929tP",
-# )
 
 def red():
-    r = redis.Redis.from_url("redis://default:5vZ4S25Eq1moXDQT1yyulhGlayl9fNZk@redis-12865.c340.ap-northeast-2-1.ec2.redns.redis-cloud.com:12865")
-
-    # success = r.set("foo", "bar")
-    # # True
-    #
-    # result = r.get("foo")
-    # print(result)
-    # >>> bar
-
+    r = redis.Redis.from_url("redis://default:oxPl9TyIuknNSXwxTxQNWX8jcfeRWR2H@redis-18063.c246.us-east-1-4.ec2.redns.redis-cloud.com:18063")
 
     # Проверка подключения
     try:
@@ -68,4 +53,4 @@ def red():
     #
     # # Получение всех элементов
     # print(r.smembers("fruits"))  # {b'banana', b'orange', b'apple'}
-    return 'ok'
+    return name.decode()
