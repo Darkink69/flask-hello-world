@@ -20,9 +20,10 @@ def handle_request():
 
     return jsonify(response)
 
-@app.route('/about')
-def about():
-    res = redis_set.red()
+@app.route('/red')
+def red():
+    id = request.args.get('id', default='no_name')
+    res = redis_set.red(id)
     return res
 
 if __name__ == '__main__':
