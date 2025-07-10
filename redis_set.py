@@ -53,4 +53,4 @@ def red():
     #
     # # Получение всех элементов
     # print(r.smembers("fruits"))  # {b'banana', b'orange', b'apple'}
-    return name.decode()
+    return 'usa red'
