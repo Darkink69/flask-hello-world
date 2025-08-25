@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 import redis_set
-import upload_url_file
+import main
 
 app = Flask(__name__)
 
@@ -29,8 +29,9 @@ def red():
 
 @app.route('/upload')
 def upload():
-    filename = request.args.get('filename', default='no_name')
-    res = upload_url_file.upload_file_to_yandex_disk_from_url(filename)
+    site = request.args.get('site')
+    channel = request.args.get('channel')
+    res = main.upload_mp3(site, channel)
     return res
 
 if __name__ == '__main__':

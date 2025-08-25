@@ -29,7 +29,7 @@ def upload_file_to_yandex_disk_from_url(oauth_token, name_folder, filename, file
         response.raise_for_status()
 
         if response.status_code == 202:
-            # print("Файл поставлен в очередь на загрузку")
+            print("Файл поставлен в очередь на загрузку")
             # 3. Проверяем статус загрузки
             status_url = response.json().get("href")
             # return check_upload_status(headers, status_url, yandex_path)
