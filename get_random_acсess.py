@@ -5,8 +5,6 @@ import random
 import time
 import os
 
-from tensorflow import string
-
 ua = UserAgent()
 
 sites = ['di', 'rockradio', 'radiotunes', 'jazzradio', 'classicalradio', 'zenradio']
@@ -40,6 +38,3 @@ def get_access_data():
             print('no access')
             time.sleep(random.randint(2, 5))
 
-
-
-# get_access_data()
