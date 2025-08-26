@@ -51,7 +51,7 @@ def upload_mp3(site, channel):
 
     data_link = get_random_acсess.get_access_data()
 
-
+    tracks = tracks[:5]
     for track in tracks:
         file_url = 'https:' + track['url'] + '?' + data_link
         filename = track['track'] + '.mp3'
