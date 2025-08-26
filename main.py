@@ -43,6 +43,14 @@ def get_channel_info(site, channel):
         url_ch = f'https://qh8bsvaksadb2kj9.public.blob.vercel-storage.com/{site}/db_{site}_full_{channel}_light.json'
         tracks = get_json_channel.get_json_channel_tracks(url_ch)
 
+        # Получаем data_link один раз для всех треков
+        data_link = get_random_acсess.get_access_data()
+        if not data_link:
+            print("Ошибка при получении data_link")
+            return {'error': 'Не удалось получить data_link'}
+
+        print(f"Data_link успешно получен: {data_link[:50]}...")
+
         # Рассчитываем общий размер и время загрузки
         total_size = 0
         for track in tracks:
@@ -63,7 +71,8 @@ def get_channel_info(site, channel):
             'tracks': tracks,
             'total_tracks': len(tracks),
             'total_size_gb': total_size_gb,
-            'estimated_time_hours': estimated_time_hours
+            'estimated_time_hours': estimated_time_hours,
+            'data_link': data_link  # Возвращаем полученный data_link
         }
 
     except Exception as e:
@@ -71,36 +80,60 @@ def get_channel_info(site, channel):
         return {'error': str(e)}
 
 
+def upload_single_track_with_retry(site, channel, track, public_link, data_link,
+                                   max_retries=3):
+    """Загрузка одного трека с повторным получением токена при ошибках"""
+    for attempt in range(max_retries):
+        try:
+            name_channel = get_name_channel.get_name_channel(site, channel)
+            name_folder = f"difm/{site}/{channel}_{name_channel}/"
+
+            # На второй и последующих попытках получаем новый data_link
+            if attempt > 0:
+                print(f"Попытка {attempt + 1}: получаем новый data_link")
+                new_data_link = get_random_acсess.get_access_data()
+                if new_data_link:
+                    data_link = new_data_link
+                    print(f"Новый data_link получен: {data_link[:30]}...")
+                else:
+                    print("Не удалось получить новый data_link")
+
+            file_url = 'https:' + track['url'] + '?' + data_link
+            filename = track['track'] + '.mp3'
+
+            print(f"Загрузка трека: {filename} (попытка {attempt + 1})")
+
+            res = upload_url_file.upload_file_to_yandex_disk_from_url(
+                oauth_token,
+                name_folder,
+                filename,
+                file_url
+            )
+
+            # Проверяем результат загрузки
+            if res and 'error' not in str(res).lower():
+                print(f"Трек успешно загружен: {filename}")
+                time.sleep(random.randint(10, 20))
+                return {'success': True, 'filename': filename, 'result': res,
+                        'attempts': attempt + 1}
+            else:
+                print(f"Ошибка при загрузке трека {filename}: {res}")
+                time.sleep(5)  # Пауза перед повторной попыткой
+
+        except Exception as e:
+            print(
+                f"Исключение при загрузке трека {track.get('track', 'unknown')} (попытка {attempt + 1}): {e}")
+            time.sleep(5)  # Пауза перед повторной попыткой
+
+    # Если все попытки неудачны
+    return {'success': False, 'filename': track.get('track', 'unknown'),
+            'error': f'Все {max_retries} попытки неудачны'}
+
+
 def get_public_link_prepare(site, channel):
     """Подготовительная работа: создание папки и получение публичной ссылки"""
     info = get_channel_info(site, channel)
     return info['public_link'] if 'public_link' in info else None
-
-
-def upload_single_track(site, channel, track, public_link):
-    """Загрузка одного трека"""
-    try:
-        name_channel = get_name_channel.get_name_channel(site, channel)
-        name_folder = f"difm/{site}/{channel}_{name_channel}/"
-
-        data_link = get_random_acсess.get_access_data()
-        file_url = 'https:' + track['url'] + '?' + data_link
-        filename = track['track'] + '.mp3'
-
-        res = upload_url_file.upload_file_to_yandex_disk_from_url(
-            oauth_token,
-            name_folder,
-            filename,
-            file_url
-        )
-
-        # Небольшая пауза между загрузками
-        time.sleep(random.randint(10, 20))
-
-        return {'success': True, 'filename': filename, 'result': res}
-
-    except Exception as e:
-        return {'success': False, 'filename': track['track'], 'error': str(e)}
 
 
 def get_public_link(site, channel):
