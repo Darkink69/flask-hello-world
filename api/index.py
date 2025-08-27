@@ -19,7 +19,7 @@ def handle_request():
         }
     }
 
-    return jsonify(response)
+    return 'Тут будет статус загрузки и тд. Загружается по по 5 штук в формате /upload?site=jazzradio&channel=519'
 
 @app.route('/red')
 def red():
