@@ -19,7 +19,7 @@ def red():
     tracks = get_json_channel.get_json_channel_tracks(url_ch)
 
     r.hset(tracks[0]['id'], mapping={"track": tracks[0]['track'], "url": tracks[0]['url']})
-    one = r.hgetall(tracks[0]['id'])
+    one = r.hgetall(tracks[0]['id'].decode())
 
     print(one)
 
