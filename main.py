@@ -53,7 +53,7 @@ def upload_mp3(site, channel):
 
     tracks = tracks[:5]
     for track in tracks:
-        print(track)
+        # print(track)
         file_url = 'https:' + track['url'] + '?' + data_link
         filename = track['track'] + '.mp3'
         res = upload_url_file.upload_file_to_yandex_disk_from_url(oauth_token, name_folder, filename, file_url)
