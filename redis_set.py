@@ -6,9 +6,9 @@ import hashlib
 import get_json_channel
 
 
-# def get_redis_connection():
-#     return redis.Redis.from_url(
-#         "redis://default:JRxLZs5NT8kSGmqTGftkAAPRMv2FRrq@redis-16294.c281.us-east-1-2.ec2.redns.redis-cloud.com:16294")
+def get_redis_connection():
+    return redis.Redis.from_url(
+        "redis://default:JRxLZs5NT8kSGmqTGftkAAPRMvz2FRrq@redis-16294.c281.us-east-1-2.ec2.redns.redis-cloud.com:16294")
 
 
 def get_tracks_hash(tracks):
@@ -18,7 +18,7 @@ def get_tracks_hash(tracks):
 
 
 def initialize_upload_session(site, channel):
-    r = redis.Redis.from_url("redis://default:JRxLZs5NT8kSGmqTGftkAAPRMv2FRrq@redis-16294.c281.us-east-1-2.ec2.redns.redis-cloud.com:16294")
+    r = get_redis_connection()
 
     try:
         r.ping()
