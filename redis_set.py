@@ -2,7 +2,7 @@ import redis
 
 
 def red(id):
-    r = redis.Redis.from_url("redis://default:oxPl9TyIuknNSXwxTxQNWX8jcfeRWR2H@redis-18063.c246.us-east-1-4.ec2.redns.redis-cloud.com:18063")
+    r = redis.Redis.from_url("redis://default:JRxLZs5NT8kSGmqTGftkAAPRMvz2FRrq@redis-16294.c281.us-east-1-2.ec2.redns.redis-cloud.com:16294")
 
     # Проверка подключения
     try:
