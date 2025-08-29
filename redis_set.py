@@ -18,12 +18,13 @@ def red(id):
     url_ch = 'https://qh8bsvaksadb2kj9.public.blob.vercel-storage.com/di/db_di_full_69_light.json'
     tracks = get_json_channel.get_json_channel_tracks(url_ch)
 
-    r.set("id", {"track", tracks[0]["track"], "url", tracks[0]["url"]})
-    # r.set( "url", tracks[0]["url"])
-    one = r.get("id")
-    print(one)
+    r.set("track", tracks[0]["track"])
+    r.set( "url", tracks[0]["url"])
+    one = r.get("track")
+    two = r.get("url")
+    print(one, two)
 
-    return jsonify(one)
+    return one, two
 
     # # Запись значения
     # r.set("user:1", "Alice")
