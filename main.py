@@ -10,7 +10,7 @@ import time
 import random
 import redis_set
 
-oauth_token = "y0__AgAAAAAtHCVfAATuwQAAAADRHuP70devARjblgMg3NzV4xMIZ_XCL_u7KWPy_1nYK9cpmiVNUQ"
+oauth_token = "y0__xC70devARjblgMg3NzV4xMIZ_XCL_u7KWPy_1nYK9cpmiVNUQ"
 days = 7
 
 
