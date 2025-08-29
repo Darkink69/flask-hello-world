@@ -23,7 +23,7 @@ def red():
 
     print(one)
 
-    return jsonify(one)
+    return one
 
     # # Запись значения
     # r.set("user:1", "Alice")

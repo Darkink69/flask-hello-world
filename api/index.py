@@ -28,7 +28,7 @@ def handle_request():
 def red():
     # id = request.args.get()
     res = redis_set.red()
-    return res
+    return jsonify(res)
 
 @app.route('/upload')
 def upload():
