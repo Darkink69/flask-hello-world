@@ -18,7 +18,7 @@ def get_tracks_hash(tracks):
 
 
 def initialize_upload_session(site, channel):
-    r = get_redis_connection()
+    r = redis.Redis.from_url("redis://default:JRxLZs5NT8kSGmqTGftkAAPRMv2FRrq@redis-16294.c281.us-east-1-2.ec2.redns.redis-cloud.com:16294")
 
     try:
         r.ping()
