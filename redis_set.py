@@ -4,7 +4,7 @@ from flask import jsonify
 import get_json_channel
 
 
-def red(id):
+def red():
     r = redis.Redis.from_url("redis://default:JRxLZs5NT8kSGmqTGftkAAPRMvz2FRrq@redis-16294.c281.us-east-1-2.ec2.redns.redis-cloud.com:16294")
 
     # Проверка подключения
@@ -23,7 +23,7 @@ def red(id):
 
     print(one)
 
-    return jsonify(one)
+    return "jsonify(one)"
 
     # # Запись значения
     # r.set("user:1", "Alice")

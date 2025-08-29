@@ -26,8 +26,8 @@ def handle_request():
 
 @app.route('/red')
 def red():
-    id = request.args.get('id', default='no_name')
-    res = redis_set.red(id)
+    # id = request.args.get()
+    res = redis_set.red()
     return res
 
 @app.route('/upload')
