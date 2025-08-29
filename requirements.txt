@@ -1,5 +1,4 @@
 Flask==3.0.3
-redis~=4.6.0
 fake-useragent
 requests~=2.32.4
 redis

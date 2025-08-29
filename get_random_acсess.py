@@ -26,7 +26,7 @@ def get_access_data():
         # print(audio_token)
 
         link_hidden = f'https://api.audioaddict.com/v1/{sites[0]}/routines/channel/{id}?tune_in=true&audio_token={audio_token}'
-        print(link_hidden)
+        # print(link_hidden)
         headers = {"User-Agent": ua.random}
         try:
             r = requests.get(link_hidden, headers=headers)
