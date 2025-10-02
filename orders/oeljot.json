@@ -1,0 +1,170 @@
+[
+  {
+    "id": 175,
+    "network_id": 1,
+    "name": "Epic Trance",
+    "description_short": "Trance in its most boisterous form. Uplifting melodies on top of high energy beats create these euphoric anthems.",
+    "lastId": 3123633,
+    "isDownloaded": false
+  },
+  {
+    "id": 520,
+    "network_id": 1,
+    "name": "Deep Progressive Trance",
+    "description_short": "A subgenre of Progressive Trance that features a deeper, more emotional and melodic sound.",
+    "lastId": 3122611,
+    "isDownloaded": false
+  },
+  {
+    "id": 124,
+    "network_id": 1,
+    "name": "Oldschool Acid",
+    "description_short": "Acid, one of the characteristics of the TB-303, is celebrated here with the best tracks from house, techno and trance.",
+    "lastId": 3120624,
+    "isDownloaded": false
+  },
+  {
+    "id": 3,
+    "network_id": 1,
+    "name": "Chillout",
+    "description_short": "Electronic sounds, mellow mid-tempo rhythms, and a groove meant to calm the senses and ease the mind.",
+    "lastId": 3122905,
+    "isDownloaded": false
+  },
+  {
+    "id": 346,
+    "network_id": 1,
+    "name": "Dark PsyTrance",
+    "description_short": "The darker form of PsyTrance, which is a sound all its own \u2013 direct from Goa to your headphones.",
+    "lastId": 432529,
+    "isDownloaded": false
+  },
+  {
+    "id": 174,
+    "network_id": 1,
+    "name": "Deep House",
+    "description_short": "House music crafted for the smaller and mid-sized rooms - deeper tracks full of silky, smooth grooves.",
+    "lastId": 3124011,
+    "isDownloaded": false
+  },
+  {
+    "id": 104,
+    "network_id": 1,
+    "name": "Oldschool House",
+    "description_short": "The biggest classics and secret weapons \u2013 this is a true treasure chest of house tracks from back in the day.",
+    "lastId": 75997,
+    "isDownloaded": false
+  },
+  {
+    "id": 4,
+    "network_id": 1,
+    "name": "House",
+    "description_short": "Born in Chicago and now global, house music is always evolving but remains true to its pure 4/4 structure.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 183,
+    "network_id": 1,
+    "name": "Classic EuroDisco",
+    "description_short": "Conceived in the European discos  in the 70s, evolving through the decades into modern electronic masterpieces.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 355,
+    "network_id": 1,
+    "name": "Dub Techno",
+    "description_short": "The beloved sounds of deep techno saturated with tape delays, heavy reverb and ice cold atmospherics.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 348,
+    "network_id": 1,
+    "name": "Dub",
+    "description_short": "An emphasis on the bass and drums / DnB, delayed effects, sampled vocals and smokey Reggae inspired vibes.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 16,
+    "network_id": 1,
+    "name": "Gabber",
+    "description_short": "The hardest form of techno with punishing tracks designed to drive the crowds into a sweaty frenzy.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 59,
+    "network_id": 1,
+    "name": "Minimal",
+    "description_short": "Minimal fuses elements of house, techno and electronica and strips it back to focus on the spaces between the sound.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 454,
+    "network_id": 16,
+    "name": "New Age",
+    "description_short": "Slow, soothing and open-minded music for relaxing, thinking, and enjoying.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 1,
+    "network_id": 1,
+    "name": "Trance",
+    "description_short": "Emotive dance music which embraces incredible melodies, future-facing production and energetic anthems heard worldwide.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 36,
+    "network_id": 1,
+    "name": "Techno",
+    "description_short": "Techno is a true musical force full of structure and style. Robotic, mechanical and full of soul, always facing the future.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 90,
+    "network_id": 1,
+    "name": "Classic Trance",
+    "description_short": "The classic melodies, the epic breakdowns and gigantic builds. Re-experience Trance music in her prime.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 178,
+    "network_id": 1,
+    "name": "Progressive Psy",
+    "description_short": "Progress your mind to undiscovered psychedelic dimensions.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 275,
+    "network_id": 1,
+    "name": "Chillstep",
+    "description_short": "The brilliant combination of dubstep rhythms with the mellow grooves of chillout. A unique sound all its own.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 276,
+    "network_id": 1,
+    "name": "Hard Techno",
+    "description_short": "Tough as nails warehouse jams full of cold aggression, sinister structures and pounding rhythms that hit hard.",
+    "lastId": 0,
+    "isDownloaded": false
+  },
+  {
+    "id": 288,
+    "network_id": 1,
+    "name": "Underground Techno",
+    "description_short": "From gritty Berlin streets to dark corners of Brooklyn, this is techno made by artists pushing the genre further. ",
+    "lastId": 0,
+    "isDownloaded": false
+  }
+]

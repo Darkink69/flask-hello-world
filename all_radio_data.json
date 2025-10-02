@@ -1,0 +1,2594 @@
+[
+    {
+        "id": 449,
+        "network_id": 16,
+        "name": "Meditation",
+        "description_short": "Music for the mind, body, and soul. Atonal, atmospheric, and made for total focus."
+    },
+    {
+        "id": 450,
+        "network_id": 16,
+        "name": "Relaxation",
+        "description_short": "Music to simply tune out the world, rest your mind, and relax your body.\r\n"
+    },
+    {
+        "id": 451,
+        "network_id": 16,
+        "name": "Nature Relaxation",
+        "description_short": "Let your mind step outside and admire the world around you through the relaxing sounds of nature."
+    },
+    {
+        "id": 453,
+        "network_id": 16,
+        "name": "Chillout Dreams",
+        "description_short": "A mellow electronic soundtrack for when you want to close your eyes, get truly comfortable, and drift away.\r\n"
+    },
+    {
+        "id": 454,
+        "network_id": 16,
+        "name": "New Age",
+        "description_short": "Slow, soothing and open-minded music for relaxing, thinking, and enjoying."
+    },
+    {
+        "id": 455,
+        "network_id": 16,
+        "name": "Vocal New Age",
+        "description_short": "Soothing vocal melodies in collaboration with the laid-back sounds of New Age music."
+    },
+    {
+        "id": 456,
+        "network_id": 16,
+        "name": "Space Dreams",
+        "description_short": "Ambient space music for expanding minds."
+    },
+    {
+        "id": 457,
+        "network_id": 16,
+        "name": "Ambient",
+        "description_short": "Electronic sounds and atmospheric textures create a genre to enhance your state of mind and take you deeper."
+    },
+    {
+        "id": 458,
+        "network_id": 16,
+        "name": "Chillout",
+        "description_short": "Electronic sounds, mellow mid-tempo rhythms, and a groove meant to calm the senses and ease the mind."
+    },
+    {
+        "id": 459,
+        "network_id": 16,
+        "name": "Vocal Chillout",
+        "description_short": "Relaxing vibes and a collection of vocal songs providing a laid back soundtrack for your day."
+    },
+    {
+        "id": 460,
+        "network_id": 16,
+        "name": "Baby Sleep",
+        "description_short": "Help your little one relax or sleep with soothing music selected for babies."
+    },
+    {
+        "id": 461,
+        "network_id": 16,
+        "name": "Ocean Sounds",
+        "description_short": "Float away to deep sea with soundscapes captured from the water’s edge."
+    },
+    {
+        "id": 462,
+        "network_id": 16,
+        "name": "Sounds of Rain",
+        "description_short": "Relax to the calming sounds of rainfall and gentle storms."
+    },
+    {
+        "id": 463,
+        "network_id": 16,
+        "name": "Perfect Sunsets",
+        "description_short": "The sound of changing skies and cooling temperatures as the day drifts away."
+    },
+    {
+        "id": 464,
+        "network_id": 16,
+        "name": "Reiki",
+        "description_short": "Musical energy to help with stress reduction and aid in healing."
+    },
+    {
+        "id": 466,
+        "network_id": 16,
+        "name": "Sleep Relaxation",
+        "description_short": "Music geared to soothe the mind and calm the soul. Drift to sleep with tones, textures, and musical peacefulness."
+    },
+    {
+        "id": 467,
+        "network_id": 16,
+        "name": "Relaxing Flute",
+        "description_short": "Sublime and serene compositions centered around the woodwind instrument."
+    },
+    {
+        "id": 468,
+        "network_id": 16,
+        "name": "Relaxing Guitar",
+        "description_short": "With tones rich and full, selected pieces saturated with the sound of guitars."
+    },
+    {
+        "id": 470,
+        "network_id": 16,
+        "name": "Yoga",
+        "description_short": "Tune out the chaos and focus on your meditation with positive energy.\r\n"
+    },
+    {
+        "id": 471,
+        "network_id": 16,
+        "name": "Zen",
+        "description_short": "Aesthetically pleasing music to assist in reaching full internal peace."
+    },
+    {
+        "id": 473,
+        "network_id": 16,
+        "name": "Atmospheric Dreams",
+        "description_short": "Music to enhance your dreams. Soothing, reverb-heavy textures of hushed sound.\r\n"
+    },
+    {
+        "id": 475,
+        "network_id": 16,
+        "name": "Downtempo Lounge",
+        "description_short": "Head nodding beats, chilled vocals, and lush soundscapes to bring down the sun and start the night."
+    },
+    {
+        "id": 476,
+        "network_id": 16,
+        "name": "Relaxing Piano",
+        "description_short": "Relaxing piano sounds with rich compositions and calming melodies. "
+    },
+    {
+        "id": 477,
+        "network_id": 16,
+        "name": "Relaxing Classical",
+        "description_short": "Calm classical music that will relax and unwind your body and soul."
+    },
+    {
+        "id": 478,
+        "network_id": 16,
+        "name": "East Asian Meditation",
+        "description_short": "Tranquil, soothing music that honors the traditional sounds of East Asia. Perfect for meditation or just a peaceful day."
+    },
+    {
+        "id": 480,
+        "network_id": 16,
+        "name": "Study Music",
+        "description_short": "Music to enhance concentration, memory, and stamina while studying, reading, or learning."
+    },
+    {
+        "id": 481,
+        "network_id": 16,
+        "name": "Deep Concentration",
+        "description_short": "Highly relaxing music to improve concentration and learning. "
+    },
+    {
+        "id": 482,
+        "network_id": 16,
+        "name": "Deep Focus",
+        "description_short": "Music designed to enhance focus and concentration for longer periods of time."
+    },
+    {
+        "id": 483,
+        "network_id": 16,
+        "name": "Love & Relaxation",
+        "description_short": "Relaxing romantic music to unwind with your special someone."
+    },
+    {
+        "id": 484,
+        "network_id": 16,
+        "name": "Peaceful Healing",
+        "description_short": "Leave the pain behind and journey to a dreamland of music that lifts the body and mind."
+    },
+    {
+        "id": 485,
+        "network_id": 16,
+        "name": "XPregnancy Relaxation",
+        "description_short": "Promote peace during pregnancy with soothing music for expectant mothers, childbirth, and newborn babies."
+    },
+    {
+        "id": 486,
+        "network_id": 16,
+        "name": "Shamanic Music",
+        "description_short": "Hypnotic chants and drum beats to awaken your spiritual self."
+    },
+    {
+        "id": 488,
+        "network_id": 16,
+        "name": "Stress Relief",
+        "description_short": "Release the daily stress in your life and unwind with calm peaceful music."
+    },
+    {
+        "id": 489,
+        "network_id": 16,
+        "name": "Tibetan Music",
+        "description_short": "Traditional meditation music from the Himalayan region, centering on Tibet."
+    },
+    {
+        "id": 490,
+        "network_id": 16,
+        "name": "Tibetan Singing Bowls",
+        "description_short": "Ease stress away and meditate to a deep state of relaxation with Tibetan singing bowls."
+    },
+    {
+        "id": 491,
+        "network_id": 16,
+        "name": "Tranquility & Healing",
+        "description_short": "Rejuvenate your body and mind with tranquil healing music."
+    },
+    {
+        "id": 493,
+        "network_id": 16,
+        "name": "Relaxing Spa & Massage",
+        "description_short": "Indulge in a beautiful spa-like soundscape with soothing, relaxing music."
+    },
+    {
+        "id": 496,
+        "network_id": 16,
+        "name": "Native American Flute",
+        "description_short": "Relax to the magical sounds of Native American Flute music."
+    },
+    {
+        "id": 497,
+        "network_id": 16,
+        "name": "Acoustic Vocal Chillout",
+        "description_short": "Chill to acoustic vocal songs for that perfect musical background."
+    },
+    {
+        "id": 521,
+        "network_id": 16,
+        "name": "Meditation Guitar",
+        "description_short": "Music for the mind and body with a focus on guitar melodies."
+    },
+    {
+        "id": 73,
+        "network_id": 12,
+        "name": "Straight-Ahead",
+        "description_short": "Keeping the traditions of classic jazz alive."
+    },
+    {
+        "id": 74,
+        "network_id": 12,
+        "name": "Bebop",
+        "description_short": "Born in the 1940s, this style of Jazz keeps the tempo quick and improvisation as the primary focus."
+    },
+    {
+        "id": 75,
+        "network_id": 12,
+        "name": "Classic Jazz",
+        "description_short": "The artists and music that started it all. Louis Armstrong, Duke Ellington, Sidney Bechet, Coleman Hawkins, and many more incredible minds"
+    },
+    {
+        "id": 76,
+        "network_id": 12,
+        "name": "Swing & Big Band",
+        "description_short": "Legendary big bands and star soloists of the swing era. Enjoy the high energy good vibrations from this beloved genre."
+    },
+    {
+        "id": 77,
+        "network_id": 12,
+        "name": "Hard Bop",
+        "description_short": "Influenced by Bebop, Blues, R&B and gospel music, Hard Bop is a style of Jazz heavy in piano and saxophone."
+    },
+    {
+        "id": 78,
+        "network_id": 12,
+        "name": "Cool Jazz",
+        "description_short": "Cool vibes and lighter tones from the West Coast and around the globe."
+    },
+    {
+        "id": 79,
+        "network_id": 12,
+        "name": "Modern Vocal Jazz",
+        "description_short": "Today’s singers defining the new era of Jazz. Innovative, exciting and incredibly creative modern music."
+    },
+    {
+        "id": 80,
+        "network_id": 12,
+        "name": "Latin Jazz",
+        "description_short": "Where the lively rhythms and spirit of Latin America meet Jazz – a truly exceptional and spicy flavor of the beloved genre."
+    },
+    {
+        "id": 81,
+        "network_id": 12,
+        "name": "Guitar Jazz",
+        "description_short": "The guitar as the centerpiece. Hear incredible  jazz guitar legends and classic compositions here."
+    },
+    {
+        "id": 82,
+        "network_id": 12,
+        "name": "Mellow Jazz",
+        "description_short": "A more relaxed and laid-back selection of Jazz – ideal for kicking back, watching the world go by and enjoying the moment."
+    },
+    {
+        "id": 83,
+        "network_id": 12,
+        "name": "Piano Jazz",
+        "description_short": "The ivory keys of the piano take precedence here, with incredible selections of Jazz music performed by the best pianists new and old."
+    },
+    {
+        "id": 84,
+        "network_id": 12,
+        "name": "Smooth Jazz",
+        "description_short": "Smooth as butter. This is Jazz that flows like water, laid back and pleasing to the ear."
+    },
+    {
+        "id": 85,
+        "network_id": 12,
+        "name": "Bossa Nova",
+        "description_short": "Enjoy the globally adored flavors of Brazil with influences from Jazz and Blues."
+    },
+    {
+        "id": 86,
+        "network_id": 12,
+        "name": "Smooth Uptempo",
+        "description_short": "The world's smoothest jazz at an energetic BPM. This will keep you grooving 24 hours a day."
+    },
+    {
+        "id": 87,
+        "network_id": 12,
+        "name": "Fusion Lounge",
+        "description_short": "A unique blend of Jazz, Lounge & Bossa Nova with a fascinating and inspiring result."
+    },
+    {
+        "id": 88,
+        "network_id": 12,
+        "name": "XAvant-Garde",
+        "description_short": "Innovative musicians who follow their own path"
+    },
+    {
+        "id": 89,
+        "network_id": 12,
+        "name": "Blues",
+        "description_short": "America’s roots music with guitar and harmonica. A call and response style of Jazz that is adored today."
+    },
+    {
+        "id": 95,
+        "network_id": 12,
+        "name": "Sinatra Style",
+        "description_short": "For fans of the late and great Frank Sinatra and the Great American Songbook writers inspired by the man."
+    },
+    {
+        "id": 96,
+        "network_id": 12,
+        "name": "Vocal Legends",
+        "description_short": "From Louis Armstrong, Ella Fitzgerald and more – these are the unforgettable voices singing the classics you love."
+    },
+    {
+        "id": 97,
+        "network_id": 12,
+        "name": "Piano Trios",
+        "description_short": "The beloved combination of piano, bass, and drums – resulting in a globally admired style of Jazz to delight the ears."
+    },
+    {
+        "id": 98,
+        "network_id": 12,
+        "name": "Timeless Classics",
+        "description_short": "A mix of early jazz, swing, big bands, and classic tunes. All of your familiar favorites alongside overlooked classics."
+    },
+    {
+        "id": 99,
+        "network_id": 12,
+        "name": "Smooth Vocals",
+        "description_short": "Hear only the best in smooth vocal Jazz, celebrating the human voice mixed perfectly alongside creative Jazz compositions."
+    },
+    {
+        "id": 100,
+        "network_id": 12,
+        "name": "Holiday Jazz",
+        "description_short": "Celebrate the holiday season with all your favorite Jazz interpretations of seasonal favorites."
+    },
+    {
+        "id": 102,
+        "network_id": 12,
+        "name": "Saxophone Jazz",
+        "description_short": "Giving the saxophone total attention, this style of Jazz embraces the woodwind instrument at the forefront."
+    },
+    {
+        "id": 103,
+        "network_id": 12,
+        "name": "Trumpet Jazz",
+        "description_short": "The big, boisterous sounds of the trumpet being the true force with these Jazz jams."
+    },
+    {
+        "id": 112,
+        "network_id": 12,
+        "name": "Paris Café",
+        "description_short": "The perfect soundtrack to a sunny afternoon enjoying life in Paris, France."
+    },
+    {
+        "id": 113,
+        "network_id": 12,
+        "name": "Gypsy Jazz",
+        "description_short": "Famous for the ‘gypsy chord’, this style of Jazz incorporates a minor sixth chord amongst the Jazz improvisations."
+    },
+    {
+        "id": 115,
+        "network_id": 12,
+        "name": "Current Jazz",
+        "description_short": "Explore the sounds of Jazz for the modern age. Today’s best artists providing the freshest Jazz sounds."
+    },
+    {
+        "id": 116,
+        "network_id": 12,
+        "name": "Smooth Jazz 24'7",
+        "description_short": "Smooth Jazz all day, every day. Laid-back grooves for day and night. 24 hours a day, every day."
+    },
+    {
+        "id": 134,
+        "network_id": 12,
+        "name": "Bass Jazz",
+        "description_short": "The bass as the center stage attraction. This is Jazz with an appreciation of the low-end frequencies."
+    },
+    {
+        "id": 135,
+        "network_id": 12,
+        "name": "Vibraphone Jazz",
+        "description_short": "The masters and their music who have made their mark with the classic Vibraphone instrument."
+    },
+    {
+        "id": 170,
+        "network_id": 12,
+        "name": "Smooth Lounge",
+        "description_short": "Relax and unwind with the smoothest lounge sounds around."
+    },
+    {
+        "id": 196,
+        "network_id": 12,
+        "name": "Smooth Bossa Nova",
+        "description_short": "The smoothest Bossa Nova direct from Brazil. Laid back and classy."
+    },
+    {
+        "id": 199,
+        "network_id": 12,
+        "name": "Mellow Smooth Jazz",
+        "description_short": "Relaxed, patient and atmospheric Jazz music designed for easy listening, calmer moments."
+    },
+    {
+        "id": 200,
+        "network_id": 12,
+        "name": "Blues Rock",
+        "description_short": "A brilliant genre which takes the best elements of both Blues and Rock music."
+    },
+    {
+        "id": 283,
+        "network_id": 12,
+        "name": "Holiday Smooth Jazz",
+        "description_short": "Celebrate the holiday season with the smoothest Jazz interpretations of seasonal favorites."
+    },
+    {
+        "id": 300,
+        "network_id": 12,
+        "name": "XFlamenco Jazz",
+        "description_short": "Music full of life & spirit. A passionate genre of passionate performers blending flamenco strings with Jazz and guitar."
+    },
+    {
+        "id": 301,
+        "network_id": 12,
+        "name": "Dave Koz & Friends",
+        "description_short": "Smooth Jazz hand-selected by American Jazz instrumentalist Dave Koz himself."
+    },
+    {
+        "id": 328,
+        "network_id": 12,
+        "name": "Jazz Ballads",
+        "description_short": "Instrumental ballads and slower tempo delights performed by the greatest Jazz artists new and old."
+    },
+    {
+        "id": 411,
+        "network_id": 12,
+        "name": "XAfrica Jazz",
+        "description_short": ""
+    },
+    {
+        "id": 412,
+        "network_id": 12,
+        "name": "Mellow Piano Jazz",
+        "description_short": "The warmth of ivory keys with free-form idealism & improvisation – kick back and enjoy a unique twist merging jazz and piano."
+    },
+    {
+        "id": 413,
+        "network_id": 12,
+        "name": "Modern Big Band",
+        "description_short": "Modern Jazz delights from the post-war era to the present day. Enjoy the music from bands involving 10+ musicians."
+    },
+    {
+        "id": 495,
+        "network_id": 12,
+        "name": "Jazz Hop",
+        "description_short": "A modern confluence of jazzy sounds with smooth hip-hop beats for your listening pleasure."
+    },
+    {
+        "id": 498,
+        "network_id": 12,
+        "name": "Love Smooth Jazz",
+        "description_short": "Smooth Jazz favorites with a twist of love and romance."
+    },
+    {
+        "id": 508,
+        "network_id": 12,
+        "name": "Coffee Jazz",
+        "description_short": "Pleasant hours with Coffee Jazz – just you, your coffee, and these delightful mellow jazz tunes that will ease your day.\r\n"
+    },
+    {
+        "id": 510,
+        "network_id": 12,
+        "name": "Late Night Jazz",
+        "description_short": "Unwind to the relaxing and soothing sounds of the very best slow jazz – calm instrumental tunes mixed with a few dreamy vocal tracks."
+    },
+    {
+        "id": 515,
+        "network_id": 12,
+        "name": "Afro Jazz",
+        "description_short": "A Jazz rooted approach built on the foundations laid by Afro Music, Afrobeat, and drum patterns."
+    },
+    {
+        "id": 519,
+        "network_id": 12,
+        "name": "Cocktail Jazz",
+        "description_short": "A soft and sweet blend of relaxing instrumental jazz music for dinner and cocktail parties, or just a peaceful moment."
+    },
+    {
+        "id": 523,
+        "network_id": 12,
+        "name": "Tokyo Café",
+        "description_short": "A refreshing and refined selection of low- to mid-tempo instrumental jazz, led by standout Japanese artists."
+    },
+    {
+        "id": 143,
+        "network_id": 13,
+        "name": "Classic Rock",
+        "description_short": "All of your favorite rock songs from the ages - rock and roll that has truly stood the test of time."
+    },
+    {
+        "id": 144,
+        "network_id": 13,
+        "name": "Indie Rock",
+        "description_short": "Smaller record labels producing amazing bands with an ear for creative rock and roll against the grain."
+    },
+    {
+        "id": 145,
+        "network_id": 13,
+        "name": "XSka",
+        "description_short": "Put on your dance shoes and turn it up"
+    },
+    {
+        "id": 146,
+        "network_id": 13,
+        "name": "XPop Punk",
+        "description_short": "A fusion of Punk and Pop"
+    },
+    {
+        "id": 147,
+        "network_id": 13,
+        "name": "XBeatles Tribute",
+        "description_short": "Featuring Beatles hits, remakes, and tributes"
+    },
+    {
+        "id": 148,
+        "network_id": 13,
+        "name": "Metal",
+        "description_short": "From the 1960s alternative scene to a mainstream phenomenon. Metal from the beginning to now."
+    },
+    {
+        "id": 149,
+        "network_id": 13,
+        "name": "Heavy Metal",
+        "description_short": "Bang your head! Heavy metal is the music your mama warned you about. Listen loud and proud."
+    },
+    {
+        "id": 150,
+        "network_id": 13,
+        "name": "Hard Rock",
+        "description_short": "The best selection of rock music which puts a lot more rock in the roll. Harder and louder and better."
+    },
+    {
+        "id": 151,
+        "network_id": 13,
+        "name": "XHarder Rock",
+        "description_short": "The harder side of rock"
+    },
+    {
+        "id": 152,
+        "network_id": 13,
+        "name": "Soft Rock",
+        "description_short": "All the same instruments, just played a bit more gently. Soft rock can soothe the most savage mind."
+    },
+    {
+        "id": 153,
+        "network_id": 13,
+        "name": "Pop Rock",
+        "description_short": "Rock and roll in the catchiest form. The songs played here are the ones you’ll undoubtedly remember."
+    },
+    {
+        "id": 154,
+        "network_id": 13,
+        "name": "80s Rock",
+        "description_short": "The days of big hair, tight spandex and outrageous guitar riffs. Larger than life rock and roll."
+    },
+    {
+        "id": 155,
+        "network_id": 13,
+        "name": "Death Metal",
+        "description_short": "Play as loud as possible and don your darkest clothing. Death Metal is beautiful morbid magic."
+    },
+    {
+        "id": 156,
+        "network_id": 13,
+        "name": "XDeathcore",
+        "description_short": "Death growls and breakdowns bring the mosh"
+    },
+    {
+        "id": 157,
+        "network_id": 13,
+        "name": "Black Metal",
+        "description_short": "The dark side of rock and roll. Put your hand into the sign of the beast and step deep into the realm."
+    },
+    {
+        "id": 158,
+        "network_id": 13,
+        "name": "Metalcore",
+        "description_short": "Did you know it was possible to make metal even more hardcore? Guitar riffs and breakdowns plenty."
+    },
+    {
+        "id": 159,
+        "network_id": 13,
+        "name": "Screamo-Emo",
+        "description_short": "The feelings of frustration, anger, and passion blended into songwriting. Loud, youthful and heavy. "
+    },
+    {
+        "id": 160,
+        "network_id": 13,
+        "name": "Modern Rock",
+        "description_short": "A sonic snapshot of the sounds of rock and roll for the modern era. The evolution as it stands."
+    },
+    {
+        "id": 161,
+        "network_id": 13,
+        "name": "Punk Rock",
+        "description_short": "Essential music for the youth. Rebel, fight and break every single rule. (Also pierce something.)"
+    },
+    {
+        "id": 162,
+        "network_id": 13,
+        "name": "XHardcore",
+        "description_short": "From its roots until now, Hardcore is here to stay"
+    },
+    {
+        "id": 163,
+        "network_id": 13,
+        "name": "Power Metal",
+        "description_short": "As the name implies, this is metal in its most powerful form. Massive riffs and mammoth sound."
+    },
+    {
+        "id": 164,
+        "network_id": 13,
+        "name": "Symphonic Metal",
+        "description_short": "Soaring vocals and powerful rock riffs over an enormous ensemble of orchestral accomplices."
+    },
+    {
+        "id": 165,
+        "network_id": 13,
+        "name": "Nu Metal",
+        "description_short": "Detuned guitars and a lot of beautiful noise. The sound of Nu Metal can be found here."
+    },
+    {
+        "id": 166,
+        "network_id": 13,
+        "name": "90s Rock",
+        "description_short": "A brilliant generation where the new musical forces influenced the rock legends of the past."
+    },
+    {
+        "id": 167,
+        "network_id": 13,
+        "name": "Classic Hard Rock",
+        "description_short": "The loud guitars, the heavy drum solos, and a classic sound that has upset parents for generations."
+    },
+    {
+        "id": 168,
+        "network_id": 13,
+        "name": "XJam Bands",
+        "description_short": "The finest collection of songcraft and improvisation. "
+    },
+    {
+        "id": 169,
+        "network_id": 13,
+        "name": "Hair Bands",
+        "description_short": "Unlimited hairspray, huge perms, and bleach. The best bands with the biggest hair found right here."
+    },
+    {
+        "id": 189,
+        "network_id": 13,
+        "name": "Classic Metal",
+        "description_short": "From Black Sabbath to Iron Maiden - the leaders of the metal movement for your sonic enjoyment."
+    },
+    {
+        "id": 190,
+        "network_id": 13,
+        "name": "XProgressive Metal",
+        "description_short": "A fusion of Progressive Rock and Heavy Metal."
+    },
+    {
+        "id": 191,
+        "network_id": 13,
+        "name": "Progressive Rock",
+        "description_short": "Inspired by Jazz, Blues, and Funk, it’s a twist to traditional rock and roll with lovely results."
+    },
+    {
+        "id": 192,
+        "network_id": 13,
+        "name": "Thrash Metal",
+        "description_short": "We don’t encourage anyone to smash things up, but if you do - this is the music to play while you do it."
+    },
+    {
+        "id": 193,
+        "network_id": 13,
+        "name": "Rock Ballads",
+        "description_short": "Even the biggest rock stars have a tender side. Have a listen to rock music dedicated to the heart."
+    },
+    {
+        "id": 194,
+        "network_id": 13,
+        "name": "80s Alternative",
+        "description_short": "The glamorous, androgynous era where rules were broken and guitars teamed up with synths."
+    },
+    {
+        "id": 195,
+        "network_id": 13,
+        "name": "90s Alternative",
+        "description_short": "Come as you are. The 90s alternative celebrated isolation, rebellion and independent expression."
+    },
+    {
+        "id": 201,
+        "network_id": 13,
+        "name": "Blues Rock",
+        "description_short": "The influences of Chicago's soul scene joined together with faster tempos and tough ideas."
+    },
+    {
+        "id": 212,
+        "network_id": 13,
+        "name": "XDjent Metal",
+        "description_short": "Progressive Metal with a modern twist."
+    },
+    {
+        "id": 221,
+        "network_id": 13,
+        "name": "XRap Metal",
+        "description_short": "A fusion of Rap, Hip Hop and alternative Metal."
+    },
+    {
+        "id": 222,
+        "network_id": 13,
+        "name": "Melodic Death Metal",
+        "description_short": "Even death metal has a soft spot. Listen to your favorite extreme sound with a melodic twist."
+    },
+    {
+        "id": 226,
+        "network_id": 13,
+        "name": "60s Rock",
+        "description_short": "Take a trip back in time to the glorious sounds of 60s rock, blending country, blues and surf sounds."
+    },
+    {
+        "id": 272,
+        "network_id": 13,
+        "name": "Industrial",
+        "description_short": "The merging of electronic instruments with the powerful force of rock and roll. The future?"
+    },
+    {
+        "id": 287,
+        "network_id": 13,
+        "name": "Grunge",
+        "description_short": "Harsh guitars, heavy riffs, brilliant drums. Loud rock and roll born from the 90s and making noise still."
+    },
+    {
+        "id": 408,
+        "network_id": 13,
+        "name": "00s Rock",
+        "description_short": "All your favorite rock from the start of the century. From familiar favorites to overlooked greats."
+    },
+    {
+        "id": 409,
+        "network_id": 13,
+        "name": "70s Rock",
+        "description_short": "Rock music from the golden era of a changing sonic landscape. Psychedelic, heavy and classic."
+    },
+    {
+        "id": 410,
+        "network_id": 13,
+        "name": "Alternative Rock",
+        "description_short": "Born in the 80s underground, an always evolving sound which defines those living outside the box."
+    },
+    {
+        "id": 439,
+        "network_id": 13,
+        "name": "XLatin Rock",
+        "description_short": "The best classics and the new generation of rock"
+    },
+    {
+        "id": 446,
+        "network_id": 13,
+        "name": "Classic Folk Rock",
+        "description_short": "Distortion free instruments, tight arrangement, and an endless supply of familiar favorites from this brilliant genre."
+    },
+    {
+        "id": 447,
+        "network_id": 13,
+        "name": "Modern Folk Rock",
+        "description_short": "Born in the 60s and 70s, but still vibrant today - enjoy nothing but brand new selections from the best folk musicians today."
+    },
+    {
+        "id": 448,
+        "network_id": 13,
+        "name": "Yacht Rock",
+        "description_short": "Smooooooth music. From Michael McDonald, Steeley Dan and the Doobie Brothers, the controls are set to cruise."
+    },
+    {
+        "id": 360,
+        "network_id": 15,
+        "name": "20th Century",
+        "description_short": "Where the romantic period ends and the modern era begins – merging Modernism, Impressionism, Expressionism and atonality."
+    },
+    {
+        "id": 361,
+        "network_id": 15,
+        "name": "21st Century",
+        "description_short": "Featuring works composed after the millennium – modern and eclectic whilst keeping traditional styles of the old masters."
+    },
+    {
+        "id": 362,
+        "network_id": 15,
+        "name": "Bach",
+        "description_short": "Johann Sebastian Bach (1685-1750) was a German composer of the Baroque period revered for his technical command, artistic beauty and intellectual depth."
+    },
+    {
+        "id": 363,
+        "network_id": 15,
+        "name": "Ballets",
+        "description_short": "Intricate and emotional dance music from the courts of the 17th century to modern day. Features music from the most famous ballets, past and present."
+    },
+    {
+        "id": 364,
+        "network_id": 15,
+        "name": "Baroque Period",
+        "description_short": "Listen to delightful classical music from the Baroque Period (1600-1750), an era of ornate beauty, dramatic contrasts, and animated intensity."
+    },
+    {
+        "id": 365,
+        "network_id": 15,
+        "name": "Beethoven",
+        "description_short": "Ludwig van Beethoven (1770-1827) was a German composer and pianist who was a crucial figure in the transition between the Classical and Romantic eras."
+    },
+    {
+        "id": 366,
+        "network_id": 15,
+        "name": "Brahms",
+        "description_short": "Johannes Brahms (1833-1897) was a German composer and pianist who composed for piano, chamber ensembles, orchestra, voice and chorus."
+    },
+    {
+        "id": 367,
+        "network_id": 15,
+        "name": "Cello Works",
+        "description_short": "Enjoy everything from solo performances to full concertos with the Cello front and center – works that celebrate the instrument’s ability to convey intimacy, drama, and beauty."
+    },
+    {
+        "id": 368,
+        "network_id": 15,
+        "name": "Chamber Works",
+        "description_short": "Chamber music is performed as collaboration between a small number of performers creating an intimate and friendly atmosphere."
+    },
+    {
+        "id": 369,
+        "network_id": 15,
+        "name": "Chopin",
+        "description_short": "Frédéric Chopin (1810-1849) was a Polish composer and virtuoso pianist of the Romantic era who wrote primarily for the solo piano."
+    },
+    {
+        "id": 370,
+        "network_id": 15,
+        "name": "Choral Works",
+        "description_short": "Specifically written for and performed by large choirs; featuring music from Bach, Mendelssohn, Mozart, Handel, Brahms and many more."
+    },
+    {
+        "id": 371,
+        "network_id": 15,
+        "name": "Classical Period",
+        "description_short": "Enjoy marvelous musical compositions from masters of the Classical Period (1730-1820) – Mozart, Haydn, Boccherini, and many more."
+    },
+    {
+        "id": 372,
+        "network_id": 15,
+        "name": "Classical Piano Trios",
+        "description_short": "Classical piano trio is one of the most common forms of classical chamber music featuring the piano and often accompanied by violin and cello."
+    },
+    {
+        "id": 373,
+        "network_id": 15,
+        "name": "Classical Relaxation",
+        "description_short": "Let the mind and soul relax and unwind to classical music from all eras – tender compositions and peaceful harmonies will ease your day."
+    },
+    {
+        "id": 374,
+        "network_id": 15,
+        "name": "Concertos",
+        "description_short": "Be enraptured by the intricate interplay between solo instruments and the full-sized orchestra, featuring Piano, Violin, Cello, Trumpet concertos and more."
+    },
+    {
+        "id": 375,
+        "network_id": 15,
+        "name": "Contemporary Period",
+        "description_short": "This post modernistic era started in earnest after 1945 and focused on exploring experimental forms such as eclecticism, serialism and new ways of instrumentation."
+    },
+    {
+        "id": 376,
+        "network_id": 15,
+        "name": "Handel",
+        "description_short": "George Frideric Handel (1685-1759) was a German born British Baroque composer well known for his oratorios such as ‘Messiah’ as well as numerous operas, anthems and organ concertos."
+    },
+    {
+        "id": 377,
+        "network_id": 15,
+        "name": "Harpsichord Works",
+        "description_short": "Experience the characteristic sounds of the Harpsichord; precursor to the modern piano. The harpsichord was widely used in Renaissance and Baroque music."
+    },
+    {
+        "id": 378,
+        "network_id": 15,
+        "name": "Haydn",
+        "description_short": "Joseph Haydn (1732-1809) was an Austrian composer whose contributions have earned him the epithets \"Father of the Symphony\" and \"Father of the String Quartet\"."
+    },
+    {
+        "id": 379,
+        "network_id": 15,
+        "name": "Medieval Period",
+        "description_short": "Commonly considered to be between 500-1400 AD and includes musical art forms such as Gregorian chants, motets, madrigals and canons to name a few."
+    },
+    {
+        "id": 380,
+        "network_id": 15,
+        "name": "Mozart",
+        "description_short": "Enjoy the wonderful works of the magnificent Wolfgang Amadeus Mozart (1756-1791) – one of history’s most celebrated and popular composers."
+    },
+    {
+        "id": 381,
+        "network_id": 15,
+        "name": "Operas",
+        "description_short": "Enjoy complete performances of world-famous operas by Verdi, Puccini, Mozart and many more, performed by the greatest artists of the opera world."
+    },
+    {
+        "id": 382,
+        "network_id": 15,
+        "name": "Orchestral Works",
+        "description_short": "Works heard in Symphonies, Concertos, Ballet music and more, performed by some of the most accomplished orchestras of our time."
+    },
+    {
+        "id": 383,
+        "network_id": 15,
+        "name": "Organ Works",
+        "description_short": "Classical music written for and performed on the grandest musical instrument in size and scope, or as Mozart put it; “The King of instruments”."
+    },
+    {
+        "id": 384,
+        "network_id": 15,
+        "name": "Overtures",
+        "description_short": "Originally introductions to Opera; overtures evolved through composers such as Beethoven and Mendelssohn as independent, self-existing instrumentals."
+    },
+    {
+        "id": 385,
+        "network_id": 15,
+        "name": "Piano Works",
+        "description_short": "The predominant keyboard instrument since the early 19th century; many of history’s most beloved classical works were written for the piano."
+    },
+    {
+        "id": 386,
+        "network_id": 15,
+        "name": "Easy Classical",
+        "description_short": "Captivating and delightful classical music from the most popular eras and the most beloved composers."
+    },
+    {
+        "id": 387,
+        "network_id": 15,
+        "name": "Renaissance Period",
+        "description_short": "Freed from the constraints of the Medieval Period, music in the 15th century started to expand in range, rhythm, harmony, form, and notation."
+    },
+    {
+        "id": 388,
+        "network_id": 15,
+        "name": "Romantic Period",
+        "description_short": "Enjoy expressive and emotional classical music from the Romantic Period (1780-1910) – unforgettable works by Tchaikovsky, Brahms, Chopin, and many more. "
+    },
+    {
+        "id": 389,
+        "network_id": 15,
+        "name": "Sacred Works",
+        "description_short": "Experience divine music written for performance during religious services or on solemn occasions – most heard through masses, cantatas and oratorios."
+    },
+    {
+        "id": 390,
+        "network_id": 15,
+        "name": "Solo Instruments",
+        "description_short": "Delightful masterpieces written specifically for solo instruments including piano, violin, cello, oboe, clarinet, and others."
+    },
+    {
+        "id": 391,
+        "network_id": 15,
+        "name": "Solo Piano",
+        "description_short": "Musical journeys with piano masters and talented undiscovered pianists – featuring beloved works by Beethoven, Debussy, Chopin, and many more."
+    },
+    {
+        "id": 392,
+        "network_id": 15,
+        "name": "Sonatas",
+        "description_short": "Evolving from the Baroque period, Sonatas are an instrumental musical composition typically of three or four movements in contrasting forms and keys."
+    },
+    {
+        "id": 393,
+        "network_id": 15,
+        "name": "Songs & Lieder",
+        "description_short": "Inspired by the flowering of German literature and poetry of the 19th century this musical art form was championed by the likes of Schubert, Schumann, Brahms, Mahler and more."
+    },
+    {
+        "id": 394,
+        "network_id": 15,
+        "name": "String Works",
+        "description_short": "A dedication to music written for stringed instruments such as Violin, Cello, Viola, etc.; performed solo, in groups or together with an orchestra."
+    },
+    {
+        "id": 395,
+        "network_id": 15,
+        "name": "Symphonies",
+        "description_short": "Extended musical compositions, often written for orchestra, consisting of multiple, distinct sections or movements. This channel invites you to experience music on a grand scale."
+    },
+    {
+        "id": 396,
+        "network_id": 15,
+        "name": "Tchaikovsky",
+        "description_short": "Pyotr Ilyich Tchaikovsky (1840-1893), the Romantic era composer who created some of the most popular concert and theatrical music in the classical repertoire."
+    },
+    {
+        "id": 397,
+        "network_id": 15,
+        "name": "Violin Works",
+        "description_short": "Enjoy everything from solo performances to full concertos with the violin front and center – featuring works by Vivaldi, Brahms, Paganini, and more."
+    },
+    {
+        "id": 398,
+        "network_id": 15,
+        "name": "Vivaldi",
+        "description_short": "Antonio Vivaldi (1678-1741) – an Italian virtuoso violinist and recognized as one of the greatest Baroque composers whose influence during his lifetime was widespread across Europe."
+    },
+    {
+        "id": 399,
+        "network_id": 15,
+        "name": "Wind Works",
+        "description_short": "Charming classical music written for flutes, clarinets, bassoons, trumpets etc. Performed solo, in groups or together with an orchestra."
+    },
+    {
+        "id": 425,
+        "network_id": 15,
+        "name": "Classical Guitar Works",
+        "description_short": "Explore the cool, passionate and articulate sounds of the guitar throughout the ages."
+    },
+    {
+        "id": 426,
+        "network_id": 15,
+        "name": "Gregorian Chant",
+        "description_short": "Monophonic, unaccompanied and sacred, Gregorian chant developed mainly in western and central Europe during the 9th and 10th centuries with a popular resurgence in the 20th century."
+    },
+    {
+        "id": 427,
+        "network_id": 15,
+        "name": "Flute Works",
+        "description_short": "Experience the rich and tranquil sounds of the flute; one of our oldest and most intriguing instruments."
+    },
+    {
+        "id": 428,
+        "network_id": 15,
+        "name": "Opera Highlights",
+        "description_short": "This channel features the best pieces from the world’s most wonderful operas performed by legendary contemporary vocalists and musicians."
+    },
+    {
+        "id": 429,
+        "network_id": 15,
+        "name": "Schubert",
+        "description_short": "Austrian composer Franz Peter Schubert (1797-1828) was ranked among the greatest composers of his era. He wrote over 600 secular works, symphonies, operas, and a large amount of chamber and piano music."
+    },
+    {
+        "id": 430,
+        "network_id": 15,
+        "name": "Classical Christmas",
+        "description_short": "Your favorite classical Christmas music for the holiday season – this is emotive and elegant music that captures the magic of the season."
+    },
+    {
+        "id": 431,
+        "network_id": 15,
+        "name": "Adagios",
+        "description_short": "Calming and comforting, the sound of an Adagio is gentle, slow and stunning. A relaxing sound of classic beauty which is ideal for mental focus, and to simply ease the mind after a busy day."
+    },
+    {
+        "id": 432,
+        "network_id": 15,
+        "name": "Grieg",
+        "description_short": "Edvard Hagerup Grieg (1843–1907); considered one of the leading Romantic composers, Grieg was a skilled pianist influenced by Norwegian folk music and folk culture throughout his career."
+    },
+    {
+        "id": 433,
+        "network_id": 15,
+        "name": "Shostakovich",
+        "description_short": "Dmitri D. Shostakovich (1906-1975); one of the major composers of the 20th Century. A polystylist whose symphonies and quartets are among the most prominent from that era."
+    },
+    {
+        "id": 434,
+        "network_id": 15,
+        "name": "Trumpet Works",
+        "description_short": "The trumpet is one of the strongest of all the orchestral instruments. Not only can it be heard over the rest of the orchestra; it’s also the most agile of brass instruments."
+    },
+    {
+        "id": 435,
+        "network_id": 15,
+        "name": "Waltzes, Polkas & Marches",
+        "description_short": "The big dance craze of the 19th Century – featuring uplifting works by composers such as Chopin, Waldteufel, and of course the Strauss family."
+    },
+    {
+        "id": 499,
+        "network_id": 15,
+        "name": "Debussy",
+        "description_short": "Claude Debussy (1862-1918) is considered one of the most influential composers of the late 19th and 20th centuries, and also sometimes described as the first Impressionist composer."
+    },
+    {
+        "id": 500,
+        "network_id": 15,
+        "name": "XProkofiev",
+        "description_short": ""
+    },
+    {
+        "id": 501,
+        "network_id": 15,
+        "name": "Nocturnes",
+        "description_short": "Gentle pieces of classical music – dreamy and relaxing compositions that are inspired by, or evocative of, the night."
+    },
+    {
+        "id": 502,
+        "network_id": 15,
+        "name": "Liszt",
+        "description_short": "Franz Liszt (1811-1886) – a Hungarian piano virtuoso and composer of the Romantic era. He was a very prolific composer and one of the most famous concert superstars of the 19th century."
+    },
+    {
+        "id": 503,
+        "network_id": 15,
+        "name": "Telemann",
+        "description_short": "Georg Philipp Telemann (1681-1767) – a revered German Baroque composer and one of the most prolific composers. His music represents a link between the late Baroque and the early Classical styles."
+    },
+    {
+        "id": 512,
+        "network_id": 15,
+        "name": "Relaxing Flute",
+        "description_short": "An ambiance of complete relaxation and serenity – these calm flute works are perfect for winding down, studying, working, or meditation."
+    },
+    {
+        "id": 513,
+        "network_id": 15,
+        "name": "Relaxing Piano",
+        "description_short": "Relaxing piano sounds with rich compositions and calming melodies – just tune in, wind down, and recharge."
+    },
+    {
+        "id": 17,
+        "network_id": 2,
+        "name": "Mostly Classical",
+        "description_short": "Listen and relax to a various selection of ear-pleasing sounds from Classical and beyond. "
+    },
+    {
+        "id": 18,
+        "network_id": 2,
+        "name": "New Age",
+        "description_short": "Slow, soothing and open-minded music for relaxing, thinking and enjoying. "
+    },
+    {
+        "id": 19,
+        "network_id": 2,
+        "name": "Classical Guitar",
+        "description_short": "Celebrating the timeless guitar sounds in Classical, Spanish, and Flamenco music."
+    },
+    {
+        "id": 20,
+        "network_id": 2,
+        "name": "Smooth Jazz",
+        "description_short": "Smooth as butter. This is Jazz that flows like water, laid back and pleasing to the ear."
+    },
+    {
+        "id": 21,
+        "network_id": 2,
+        "name": "Top Hits",
+        "description_short": "The biggest, most in demand hit songs in the charts. These are the songs the masses love."
+    },
+    {
+        "id": 22,
+        "network_id": 2,
+        "name": "80s Hits",
+        "description_short": "The greatest hits of the 80s that have stood the test of time and are now classics."
+    },
+    {
+        "id": 23,
+        "network_id": 2,
+        "name": "Roots Reggae",
+        "description_short": "A beloved sub-genre of Reggae which explores human emotion, life, and spirituality."
+    },
+    {
+        "id": 24,
+        "network_id": 2,
+        "name": "70s Hits",
+        "description_short": "The greatest hits of the 70s that have stood the test of time and are now classics."
+    },
+    {
+        "id": 25,
+        "network_id": 2,
+        "name": "Country",
+        "description_short": "Storytelling, that familiar twang, and great songwriters - Listen to the sounds of Country."
+    },
+    {
+        "id": 26,
+        "network_id": 2,
+        "name": "Jazz Classics",
+        "description_short": "Classic Jazz from pioneering musicians. Familiar favorites and undiscovered gems."
+    },
+    {
+        "id": 27,
+        "network_id": 2,
+        "name": "Salsa",
+        "description_short": "The rhythm. The romance. This is the place to go for the best Salsa music on the web."
+    },
+    {
+        "id": 37,
+        "network_id": 2,
+        "name": "Indie Rock",
+        "description_short": "Independent labels, creative musicians, and trailblazing songs. Enjoy the sounds of indie."
+    },
+    {
+        "id": 38,
+        "network_id": 2,
+        "name": "Classic Hip-Hop",
+        "description_short": "The best songs that perfectly capture the global musical phenomenon called hip-hop."
+    },
+    {
+        "id": 39,
+        "network_id": 2,
+        "name": "Oldies",
+        "description_short": "Three decades of great classics. Timeless tunes you’ll never forget, and will always enjoy."
+    },
+    {
+        "id": 40,
+        "network_id": 2,
+        "name": "Classic Christmas",
+        "description_short": "The sounds of Christmas - familiar jingles, carols and snowy delights."
+    },
+    {
+        "id": 41,
+        "network_id": 2,
+        "name": "Uptempo Smooth Jazz",
+        "description_short": "The world's smoothest Jazz at an energetic BPM. This will keep you grooving 24 hours a day."
+    },
+    {
+        "id": 42,
+        "network_id": 2,
+        "name": "Urban Hits",
+        "description_short": "The sounds of urban life. From the streets to your headphones. These are the hits from the city."
+    },
+    {
+        "id": 43,
+        "network_id": 2,
+        "name": "World",
+        "description_short": "Music influenced by various regions of the planet - political, percussive and unique."
+    },
+    {
+        "id": 46,
+        "network_id": 2,
+        "name": "Classic Rock",
+        "description_short": "Relive the best classic, timeless rock sounds of the 70s and 80s."
+    },
+    {
+        "id": 48,
+        "network_id": 2,
+        "name": "DaTempo Lounge",
+        "description_short": "Astounding combination of Jazz, Lounge, Bossa Nova, and much more! Laid back and lovely."
+    },
+    {
+        "id": 49,
+        "network_id": 2,
+        "name": "Alternative Rock",
+        "description_short": "Music from the underground rock scene of the 1980s and now widely popular today."
+    },
+    {
+        "id": 50,
+        "network_id": 2,
+        "name": "Movie Soundtracks",
+        "description_short": "The music that makes your favorite films come to life. The true soundtrack to cinema."
+    },
+    {
+        "id": 51,
+        "network_id": 2,
+        "name": "Contemporary Christian",
+        "description_short": "Today's Christian favorites. Music for celebration, peace, and joy."
+    },
+    {
+        "id": 52,
+        "network_id": 2,
+        "name": "Solo Piano",
+        "description_short": "Beautiful musical journeys with piano masters and talented undiscovered pianists."
+    },
+    {
+        "id": 54,
+        "network_id": 2,
+        "name": "Bossa Nova",
+        "description_short": "Enjoy the globally adored flavors of Brazil with influences from Jazz and Blues."
+    },
+    {
+        "id": 55,
+        "network_id": 2,
+        "name": "Piano Jazz",
+        "description_short": "The Jazz aesthetic through the ivory keys. Piano music with that delightful Jazz swing."
+    },
+    {
+        "id": 61,
+        "network_id": 2,
+        "name": "Love Music",
+        "description_short": "Romantic, tender and sweet music for those times when the heart wants what it wants."
+    },
+    {
+        "id": 62,
+        "network_id": 2,
+        "name": "XA Beatles Tribute",
+        "description_short": "Beatles Hits, Remakes, Tributes!!!"
+    },
+    {
+        "id": 71,
+        "network_id": 2,
+        "name": "Dance Hits",
+        "description_short": "The place to dance to all your favorite hits. Classics and forgotten favorites galore."
+    },
+    {
+        "id": 72,
+        "network_id": 2,
+        "name": "Bebop Jazz",
+        "description_short": "Swing to the fast tempos and improvisational impulsiveness of Bebop Jazz."
+    },
+    {
+        "id": 93,
+        "network_id": 2,
+        "name": "American Songbook",
+        "description_short": "Classic standard voices from the likes of Mel Torme & Nat King Cole - Pure American."
+    },
+    {
+        "id": 94,
+        "network_id": 2,
+        "name": "Classical Piano Trios",
+        "description_short": "The beloved combination of Piano with two additional instruments. Trios galore!"
+    },
+    {
+        "id": 107,
+        "network_id": 2,
+        "name": "XPop Punk",
+        "description_short": "A fusion of Punk and Pop!"
+    },
+    {
+        "id": 108,
+        "network_id": 2,
+        "name": "Romantica",
+        "description_short": "Timeless pop music with lovely vocals, melodies, and emotion. Feel the love. "
+    },
+    {
+        "id": 109,
+        "network_id": 2,
+        "name": "Dreamscapes",
+        "description_short": "Relax to the sounds of dreamy, laid back chill out music -  float away and enjoy."
+    },
+    {
+        "id": 110,
+        "network_id": 2,
+        "name": "J-pop",
+        "description_short": "The musical phenomenon from Japan’s pop culture. High energy, catchy, and unique."
+    },
+    {
+        "id": 111,
+        "network_id": 2,
+        "name": "Vocal Smooth Jazz",
+        "description_short": "Smooth as butter with a voice. This is Jazz that flows like water, laid-back and pleasing to the ear."
+    },
+    {
+        "id": 118,
+        "network_id": 2,
+        "name": "Smooth Jazz 24'7",
+        "description_short": "Smooth Jazz all day, every day. Laid back grooves for day and night. 24 hours a day, every day."
+    },
+    {
+        "id": 119,
+        "network_id": 2,
+        "name": "Nature",
+        "description_short": "Step outside and admire the world around us. The sounds of nature, direct to your speakers."
+    },
+    {
+        "id": 120,
+        "network_id": 2,
+        "name": "Relaxation",
+        "description_short": "Music to simply tune out the world, rest your mind, and relax your body."
+    },
+    {
+        "id": 121,
+        "network_id": 2,
+        "name": "Vocal New Age",
+        "description_short": "Soothing vocal melodies in collaboration with the laid-back sounds of New Age music."
+    },
+    {
+        "id": 127,
+        "network_id": 2,
+        "name": "XSka",
+        "description_short": "Ska hits from the past to the present!"
+    },
+    {
+        "id": 128,
+        "network_id": 2,
+        "name": "Modern Blues",
+        "description_short": "The best Blues music being made today. A sound rich in soul and emotion."
+    },
+    {
+        "id": 129,
+        "network_id": 2,
+        "name": "Metal",
+        "description_short": "From the 1960s alternative scene to a mainstream phenomenon. Metal from the beginning to now."
+    },
+    {
+        "id": 130,
+        "network_id": 2,
+        "name": "Hard Rock",
+        "description_short": "Heavy guitars, aggressive drums and tough as nails vocalists. This is hard rock."
+    },
+    {
+        "id": 131,
+        "network_id": 2,
+        "name": "Modern Rock",
+        "description_short": "A sonic snapshot of the sounds of rock and roll for the modern era. The evolution as it stands. "
+    },
+    {
+        "id": 132,
+        "network_id": 2,
+        "name": "Soft Rock",
+        "description_short": "All the same instruments, just played a bit more gently. Soft rock can soothe the most savage mind."
+    },
+    {
+        "id": 138,
+        "network_id": 2,
+        "name": "XRelaxing Excursions",
+        "description_short": "Sit back and enjoy the relaxing sounds"
+    },
+    {
+        "id": 139,
+        "network_id": 2,
+        "name": "Pop Rock",
+        "description_short": "A clever combination of Pop Music and Rock And Roll. Slightly edgy, slightly commercial."
+    },
+    {
+        "id": 140,
+        "network_id": 2,
+        "name": "Club Bollywood",
+        "description_short": "Dance Hits inspired by India’s film industry - Bollywood!"
+    },
+    {
+        "id": 141,
+        "network_id": 2,
+        "name": "80s Rock Hits",
+        "description_short": "The best rock and roll from the 80s - neon-flecked fashion and guitar licks. "
+    },
+    {
+        "id": 171,
+        "network_id": 2,
+        "name": "90s Rock",
+        "description_short": "If it ROCKED in the 90s you will hear it here."
+    },
+    {
+        "id": 173,
+        "network_id": 2,
+        "name": "Smooth Lounge",
+        "description_short": "Relax and unwind with the smoothest lounge sounds around."
+    },
+    {
+        "id": 179,
+        "network_id": 2,
+        "name": "XCompact Discoveries",
+        "description_short": "Theme-based shows of mostly classical music, jazz, folk, and other popular classics."
+    },
+    {
+        "id": 186,
+        "network_id": 2,
+        "name": "90s Hits",
+        "description_short": "The greatest hits of the 90s that have stood the test of time and are now classics."
+    },
+    {
+        "id": 187,
+        "network_id": 2,
+        "name": "Smooth Bossa Nova",
+        "description_short": "The smoothest Bossa Nova direct from Brazil. Laid back and classy."
+    },
+    {
+        "id": 188,
+        "network_id": 2,
+        "name": "Mellow Jazz",
+        "description_short": "The more relaxed side of the Jazz music spectrum. More grooves for laying back."
+    },
+    {
+        "id": 197,
+        "network_id": 2,
+        "name": "Café de Paris",
+        "description_short": "The perfect soundtrack to a sunny afternoon enjoying life in Paris, France."
+    },
+    {
+        "id": 202,
+        "network_id": 2,
+        "name": "Classic Motown",
+        "description_short": "Relive the hits and discover the early sounds of Motown."
+    },
+    {
+        "id": 204,
+        "network_id": 2,
+        "name": "XRussian Dance Hits",
+        "description_short": "Russia's hottest dance tunes."
+    },
+    {
+        "id": 205,
+        "network_id": 2,
+        "name": "XRussian Pop",
+        "description_short": "Top pop hits direct from Russia."
+    },
+    {
+        "id": 207,
+        "network_id": 2,
+        "name": "XIsraeli Hits",
+        "description_short": "The best of current and classic Israeli hits."
+    },
+    {
+        "id": 211,
+        "network_id": 2,
+        "name": "K-pop",
+        "description_short": "East meets West with the biggest K-pop hits!"
+    },
+    {
+        "id": 214,
+        "network_id": 2,
+        "name": "60s Hits",
+        "description_short": "The greatest hits of the 60s that have stood the test of time and are now classics."
+    },
+    {
+        "id": 227,
+        "network_id": 2,
+        "name": "60s Rock",
+        "description_short": "The greatest rock from the era that gave us The Doors, The Beatles, Dylan and more. "
+    },
+    {
+        "id": 228,
+        "network_id": 2,
+        "name": "80s Dance",
+        "description_short": "The 80s were a time of radical expression and infectious dance tunes - listen here."
+    },
+    {
+        "id": 229,
+        "network_id": 2,
+        "name": "90s R&B",
+        "description_short": "Your favorite and widely beloved soulful vocal jams from the 90s."
+    },
+    {
+        "id": 273,
+        "network_id": 2,
+        "name": "Old School Funk & Soul",
+        "description_short": "Your favorite Funk and Soul songs, performed by the all-time greats. Classic and timeless. "
+    },
+    {
+        "id": 274,
+        "network_id": 2,
+        "name": "XHalloween Channel",
+        "description_short": "The spookiest sounds for this Halloween season. Ghosts, ghouls, and goblins!"
+    },
+    {
+        "id": 282,
+        "network_id": 2,
+        "name": "Holiday Smooth Jazz",
+        "description_short": "The laid-back sounds perfectly matched with the holiday spirit. Enjoy."
+    },
+    {
+        "id": 297,
+        "network_id": 2,
+        "name": "Mellow Smooth Jazz",
+        "description_short": "Relaxing smooth Jazz for your listening pleasure."
+    },
+    {
+        "id": 298,
+        "network_id": 2,
+        "name": "Dave Koz & Friends",
+        "description_short": "Smooth Jazz hand-selected by American Jazz instrumentalist Dave Koz himself."
+    },
+    {
+        "id": 299,
+        "network_id": 2,
+        "name": "00s R&B",
+        "description_short": "Your favorite soulful vocal jams from the start of the century."
+    },
+    {
+        "id": 303,
+        "network_id": 2,
+        "name": "Meditation",
+        "description_short": "Music for the mind, body, and soul. Atonal, atmospheric and made for total focus."
+    },
+    {
+        "id": 304,
+        "network_id": 2,
+        "name": "Reggaeton",
+        "description_short": "A cult musical favorite, with reggae rhythms fused with Latin and Caribbean flavors!"
+    },
+    {
+        "id": 305,
+        "network_id": 2,
+        "name": "Urban Pop Hits",
+        "description_short": "The most popular crossover hits directly to your speakers. Tune in! "
+    },
+    {
+        "id": 306,
+        "network_id": 2,
+        "name": "Relaxing Ambient Piano",
+        "description_short": "Piano melodies set to soothe your soul. Gorgeous sounds, and ambient texture."
+    },
+    {
+        "id": 307,
+        "network_id": 2,
+        "name": "Disco Party",
+        "description_short": "Love it or hate it - disco has defined a generation and still brings the funk."
+    },
+    {
+        "id": 322,
+        "network_id": 2,
+        "name": "Slow R&B",
+        "description_short": "Soulful, slow R&B jams and ballads when you’re ready to dim the lights and light the candles."
+    },
+    {
+        "id": 323,
+        "network_id": 2,
+        "name": "XSynthpop",
+        "description_short": ""
+    },
+    {
+        "id": 329,
+        "network_id": 2,
+        "name": "Ambient",
+        "description_short": "Electronic and acoustic sounds to enhance your state of mind and take you deeper."
+    },
+    {
+        "id": 330,
+        "network_id": 2,
+        "name": "Chillout",
+        "description_short": "Electronic sounds, mellow mid-tempo rhythms, and a groove to calm the senses."
+    },
+    {
+        "id": 331,
+        "network_id": 2,
+        "name": "Downtempo Lounge",
+        "description_short": "Head nodding beats, chilled vocals and lush soundscapes for kicking back and enjoying."
+    },
+    {
+        "id": 332,
+        "network_id": 2,
+        "name": "EDM Fest",
+        "description_short": "The best DJs playing the biggest EDM tunes from the biggest festivals in the world."
+    },
+    {
+        "id": 333,
+        "network_id": 2,
+        "name": "EuroDance",
+        "description_short": "Huge synths, catchy melodies, and infectious energy. Enjoy the very best of Eurodance."
+    },
+    {
+        "id": 334,
+        "network_id": 2,
+        "name": "Lounge",
+        "description_short": "Music to chill to. For when it’s time for kicking off your shoes, laying back, and relaxing."
+    },
+    {
+        "id": 335,
+        "network_id": 2,
+        "name": "Vocal Chillout",
+        "description_short": "Relaxing vibes and a collection of vocal songs providing the laid-back soundtrack to your day. "
+    },
+    {
+        "id": 336,
+        "network_id": 2,
+        "name": "Vocal Lounge",
+        "description_short": "Laid back grooves and a collection of smooth vocals to sooth the ears and relax the mind."
+    },
+    {
+        "id": 337,
+        "network_id": 2,
+        "name": "Pop Christmas",
+        "description_short": "All you want for Christmas is… Pop music. Tune in for those radio-friendly seasonal hits."
+    },
+    {
+        "id": 342,
+        "network_id": 2,
+        "name": "Baroque Period",
+        "description_short": "Delightful classical music from the Baroque Period (1600-1760) born of a single melody."
+    },
+    {
+        "id": 343,
+        "network_id": 2,
+        "name": "Classical Period",
+        "description_short": "Enjoy beautiful musical compositions from masters of the Classical Period (1730-1820)."
+    },
+    {
+        "id": 344,
+        "network_id": 2,
+        "name": "Mozart",
+        "description_short": "Relax to the wonderful works of classical composer Wolfgang Amadeus Mozart (1756-1791)."
+    },
+    {
+        "id": 345,
+        "network_id": 2,
+        "name": "Romantic Period",
+        "description_short": "Enjoy the best of classical music from the Romantic Period (1780-1910). The sounds of freeform experimentation and dramatic ideas."
+    },
+    {
+        "id": 354,
+        "network_id": 2,
+        "name": "80s Alt & New Wave",
+        "description_short": "The sounds of the 80s underground. Synths, quirky ideas, and pioneering musicians. "
+    },
+    {
+        "id": 356,
+        "network_id": 2,
+        "name": "Blues Rock",
+        "description_short": "A brilliant genre which takes the best elements of both Blues and Rock music."
+    },
+    {
+        "id": 358,
+        "network_id": 2,
+        "name": "00s Hits",
+        "description_short": "All your favorites from the beginning of the century. Expect familiar favorites and hidden gems. "
+    },
+    {
+        "id": 359,
+        "network_id": 2,
+        "name": "XPiano Chillout",
+        "description_short": "Relax to Dream and Ibiza style chillout with a dash of piano flavors."
+    },
+    {
+        "id": 405,
+        "network_id": 2,
+        "name": "XRomantic Guitar",
+        "description_short": "The soothing sounds of romantic guitar music."
+    },
+    {
+        "id": 406,
+        "network_id": 2,
+        "name": "Sleep Relaxation",
+        "description_short": "Music meant to help guide you into the world of Slumberland. Relax and drift away."
+    },
+    {
+        "id": 407,
+        "network_id": 2,
+        "name": "Smooth Beats",
+        "description_short": "Smooth, groovy and full of cutting-edge, fresh ideas - beats to kick back and enjoy far from the club setting."
+    },
+    {
+        "id": 414,
+        "network_id": 2,
+        "name": "XBolero",
+        "description_short": "Slow Tempo Latin sounds, with gorgeous melodies and great vocal stylings."
+    },
+    {
+        "id": 415,
+        "network_id": 2,
+        "name": "Cuban Lounge",
+        "description_short": "Laid back Cuban sounds influenced by Rhumba, Jazz, Salsa, Soukous and more."
+    },
+    {
+        "id": 416,
+        "network_id": 2,
+        "name": "XFlamenco",
+        "description_short": "Music full of life and spirit. A passionate genre of passionate performers."
+    },
+    {
+        "id": 417,
+        "network_id": 2,
+        "name": "Latin Pop Hits",
+        "description_short": "The greatest hits from Latin America - familiar favorites and forgotten gems."
+    },
+    {
+        "id": 418,
+        "network_id": 2,
+        "name": "XLatin Rock",
+        "description_short": "The best classics and the new generation of rock born and loved in Latin America."
+    },
+    {
+        "id": 419,
+        "network_id": 2,
+        "name": "XNorteña",
+        "description_short": "Narrative songs and poetry from the rural landscape to the urban outskirts."
+    },
+    {
+        "id": 420,
+        "network_id": 2,
+        "name": "Romántica Latina",
+        "description_short": "The most romantic ballads to come from Latin America. Be still our beating hearts."
+    },
+    {
+        "id": 421,
+        "network_id": 2,
+        "name": "XTango",
+        "description_short": "Either instrumental or with vocalists, Tango is music that is full of life. Born in Argentina and loved globally."
+    },
+    {
+        "id": 422,
+        "network_id": 2,
+        "name": "Chill & Tropical House",
+        "description_short": "The sounds of Chill & Tropical House are expertly made for lounging and dancing alike with its deeper house vibes."
+    },
+    {
+        "id": 423,
+        "network_id": 2,
+        "name": "Indie Dance",
+        "description_short": "The spirit of Rock & Roll with an electronic soul. Club culture and live music combined."
+    },
+    {
+        "id": 436,
+        "network_id": 2,
+        "name": "90s Country",
+        "description_short": "Reba McEntire, Tim McGraw and Garth Brooks are just a few influential artists from the 90s who have helped shape an awesome decade of country favorites.\r\n"
+    },
+    {
+        "id": 437,
+        "network_id": 2,
+        "name": "00s Country",
+        "description_short": "Great country music from the turn of the century, including Dixie Chicks and even Taylor Swift. Have a listen to the evolving sounds of Country in the 00s."
+    },
+    {
+        "id": 440,
+        "network_id": 2,
+        "name": "00s Rock",
+        "description_short": "All your favorite rock from the start of the 2000's. From familiar favorites to overlooked greats."
+    },
+    {
+        "id": 441,
+        "network_id": 2,
+        "name": "70s Rock",
+        "description_short": "Rock music from the golden era of a changing sonic landscape. Psychedelic, heavy and absolutely classic."
+    },
+    {
+        "id": 443,
+        "network_id": 2,
+        "name": "90s Dance",
+        "description_short": "The best dance tracks from the 90s. Radio friendly House hits to underground classics. An exceptional decade."
+    },
+    {
+        "id": 444,
+        "network_id": 2,
+        "name": "00s Dance",
+        "description_short": "The best dance tracks from the 2000s. Featuring familiar favorites, and overlooked jams across many genres."
+    },
+    {
+        "id": 511,
+        "network_id": 2,
+        "name": "Coffee Jazz",
+        "description_short": "Pleasant hours with Coffee Jazz – just you, your coffee, and these delightful mellow jazz tunes that will ease your day.\r\n"
+    },
+    {
+        "id": 514,
+        "network_id": 2,
+        "name": "Easy Listening",
+        "description_short": "Our take on Easy Listening with a fine combo of smooth Top Hits, Soft Rock, and classic hits."
+    },
+    {
+        "id": 516,
+        "network_id": 2,
+        "name": "Epic Music",
+        "description_short": "A fusion of many genres from Classical Music to Movie & Game soundtracks, Epic Music features powerful euphoric & symphonic melodies."
+    },
+    {
+        "id": 1,
+        "network_id": 1,
+        "name": "Trance",
+        "description_short": "Emotive dance music which embraces incredible melodies, future-facing production and energetic anthems heard worldwide."
+    },
+    {
+        "id": 2,
+        "network_id": 1,
+        "name": "Vocal Trance",
+        "description_short": "Lush vocals paired together with emotive dance music. Beautiful melodies and endless energy."
+    },
+    {
+        "id": 3,
+        "network_id": 1,
+        "name": "Chillout",
+        "description_short": "Electronic sounds, mellow mid-tempo rhythms, and a groove meant to calm the senses and ease the mind."
+    },
+    {
+        "id": 4,
+        "network_id": 1,
+        "name": "House",
+        "description_short": "Born in Chicago and now global, house music is always evolving but remains true to its pure 4/4 structure."
+    },
+    {
+        "id": 5,
+        "network_id": 1,
+        "name": "Hard Dance",
+        "description_short": "Concrete kicks and punching rhythms, hard dance is a tougher side of music with sharp edges and aggressive power."
+    },
+    {
+        "id": 6,
+        "network_id": 1,
+        "name": "EuroDance",
+        "description_short": "Pop music infused with a high energy 4/4 pulse. Heavy on the synthesizers, the melodies and the vocals."
+    },
+    {
+        "id": 7,
+        "network_id": 1,
+        "name": "Progressive",
+        "description_short": "Always moving forward, progressive continues to reinvent itself into new sounds and styles made for the floor."
+    },
+    {
+        "id": 8,
+        "network_id": 1,
+        "name": "Goa-Psy Trance",
+        "description_short": "A very psychedelic form of trance, Goa-Psy Trance is a sound full of arpeggiated synths and trippy effects."
+    },
+    {
+        "id": 9,
+        "network_id": 1,
+        "name": "Hardcore",
+        "description_short": "Strictly for the hardcore. These are the biggest and boldest bangers, and the hardest hitting tracks."
+    },
+    {
+        "id": 10,
+        "network_id": 1,
+        "name": "DJ Mixes",
+        "description_short": "From techno, deep house, progressive and trance – check out the sounds of the DJ deep in the mix."
+    },
+    {
+        "id": 11,
+        "network_id": 1,
+        "name": "Lounge",
+        "description_short": "Music to chill to. Music made for when it’s all about kicking off your shoes, laying back, and totally relaxing."
+    },
+    {
+        "id": 12,
+        "network_id": 1,
+        "name": "Ambient",
+        "description_short": "Electronic sounds and atmospheric textures create a genre to enhance your state of mind and take you deeper."
+    },
+    {
+        "id": 13,
+        "network_id": 1,
+        "name": "Drum and Bass",
+        "description_short": "Born in the mid 90s, Drum and Bass / DnB is all about fast breakbeats, urban vibes, and rib rattling basslines."
+    },
+    {
+        "id": 14,
+        "network_id": 1,
+        "name": "Oldschool Techno & Trance ",
+        "description_short": "Go back in time and hear the biggest and best tracks within techno and trance that defined a decade of dance culture."
+    },
+    {
+        "id": 15,
+        "network_id": 1,
+        "name": "Breaks",
+        "description_short": "Inspired by hip hop and UK rave music, breaks features broken up drum loops and creative samples, synths and fx."
+    },
+    {
+        "id": 16,
+        "network_id": 1,
+        "name": "Gabber",
+        "description_short": "The hardest form of techno with punishing tracks designed to drive the crowds into a sweaty frenzy."
+    },
+    {
+        "id": 36,
+        "network_id": 1,
+        "name": "Techno",
+        "description_short": "Techno is a true musical force full of structure and style. Robotic, mechanical and full of soul, always facing the future."
+    },
+    {
+        "id": 47,
+        "network_id": 1,
+        "name": "Soulful House",
+        "description_short": "House music saturated with feeling – full of melodies, vocals and true soul. Steady warm 4/4 vibes."
+    },
+    {
+        "id": 53,
+        "network_id": 1,
+        "name": "Future Synthpop",
+        "description_short": "Finest selection of futurepop and synthpop."
+    },
+    {
+        "id": 56,
+        "network_id": 1,
+        "name": "Electro House",
+        "description_short": "Buzzing basslines, huge kicks, party rocking drops. House music packed full of gigantic bass and massive synths."
+    },
+    {
+        "id": 57,
+        "network_id": 1,
+        "name": "Tribal House",
+        "description_short": "The percussive side of the house and tech house scene, tribal house takes drums and puts them in the forefront."
+    },
+    {
+        "id": 58,
+        "network_id": 1,
+        "name": "Funky House",
+        "description_short": "Focused on the funkiest grooves, with plenty of the guitar licks and clever samples placed around a 4/4 swing."
+    },
+    {
+        "id": 59,
+        "network_id": 1,
+        "name": "Minimal",
+        "description_short": "Minimal fuses elements of house, techno and electronica and strips it back to focus on the spaces between the sound."
+    },
+    {
+        "id": 60,
+        "network_id": 1,
+        "name": "Hardstyle",
+        "description_short": "Hard techno & hardcore. A global phenomenon with powerful kicks, distorted effects and infectious melodies."
+    },
+    {
+        "id": 63,
+        "network_id": 1,
+        "name": "XExposure NYC",
+        "description_short": "A fine selection of New York City sounds!"
+    },
+    {
+        "id": 64,
+        "network_id": 1,
+        "name": "Space Dreams",
+        "description_short": "Ambient space music for expanding minds."
+    },
+    {
+        "id": 66,
+        "network_id": 1,
+        "name": "Tech House",
+        "description_short": "Blending the warmth of house music with the cold structural precision of techno, tech house bridges the divide."
+    },
+    {
+        "id": 67,
+        "network_id": 1,
+        "name": "PsyChill",
+        "description_short": "Downtempo psychedelic dub grooves, goa ambient, and world beats."
+    },
+    {
+        "id": 68,
+        "network_id": 1,
+        "name": "Chillout Dreams",
+        "description_short": "The perfect musical soundtrack for when you want to close your eyes, get truly comfortable, and drift away."
+    },
+    {
+        "id": 69,
+        "network_id": 1,
+        "name": "Classic EuroDance",
+        "description_short": "European pop music born in the 90s full of high energy sounds and big hooks – now heard in gyms and malls worldwide."
+    },
+    {
+        "id": 70,
+        "network_id": 1,
+        "name": "Club Sounds",
+        "description_short": "The music heard in the biggest venues worldwide. From prime time pushers to deeper house shakers - the sounds of now."
+    },
+    {
+        "id": 90,
+        "network_id": 1,
+        "name": "Classic Trance",
+        "description_short": "The classic melodies, the epic breakdowns and gigantic builds. Re-experience Trance music in her prime."
+    },
+    {
+        "id": 91,
+        "network_id": 1,
+        "name": "Dubstep",
+        "description_short": "The wobbles of the bass, the party rocking beats, and the biggest crowd destroying drops."
+    },
+    {
+        "id": 92,
+        "network_id": 1,
+        "name": "Disco House",
+        "description_short": "The feel good sound inspired from 70s disco combined with the warm kick drum of modern house music."
+    },
+    {
+        "id": 104,
+        "network_id": 1,
+        "name": "Oldschool House",
+        "description_short": "The biggest classics and secret weapons – this is a true treasure chest of house tracks from back in the day."
+    },
+    {
+        "id": 105,
+        "network_id": 1,
+        "name": "Liquid DnB",
+        "description_short": "Smooth as water, with the fast paced rhythms, Liquid DNB / Drum and Bass flows with rolling ease without losing momentum."
+    },
+    {
+        "id": 106,
+        "network_id": 1,
+        "name": "XChiptunes",
+        "description_short": "Playing the best chiptunes and video game music."
+    },
+    {
+        "id": 117,
+        "network_id": 1,
+        "name": "Latin House",
+        "description_short": "The sounds of Salsa, Brazilian beats and Latin Jazz with the steady grooves of modern East Coast dance music."
+    },
+    {
+        "id": 123,
+        "network_id": 1,
+        "name": "XUK Garage",
+        "description_short": "The latest and greatest in UK Garage!!"
+    },
+    {
+        "id": 124,
+        "network_id": 1,
+        "name": "Oldschool Acid",
+        "description_short": "Acid, one of the characteristics of the TB-303, is celebrated here with the best tracks from house, techno and trance."
+    },
+    {
+        "id": 125,
+        "network_id": 1,
+        "name": "Classic Vocal Trance",
+        "description_short": "Classic sounds of Vocal Trance, lush vocals paired together with emotive dance music"
+    },
+    {
+        "id": 136,
+        "network_id": 1,
+        "name": "XCosmic Downtempo",
+        "description_short": "A downtempo journey into the cosmos"
+    },
+    {
+        "id": 137,
+        "network_id": 1,
+        "name": "Deep Nu-Disco",
+        "description_short": "Elements of house, funk, and disco. Mid-tempo beats, soulful grooves and head nodding selections."
+    },
+    {
+        "id": 142,
+        "network_id": 1,
+        "name": "Vocal Chillout",
+        "description_short": "Relaxing vibes and a collection of vocal songs providing the laid back soundtrack to your day."
+    },
+    {
+        "id": 174,
+        "network_id": 1,
+        "name": "Deep House",
+        "description_short": "House music crafted for the smaller and mid-sized rooms - deeper tracks full of silky, smooth grooves."
+    },
+    {
+        "id": 175,
+        "network_id": 1,
+        "name": "Epic Trance",
+        "description_short": "Trance in its most boisterous form. Uplifting melodies on top of high energy beats create these euphoric anthems."
+    },
+    {
+        "id": 176,
+        "network_id": 1,
+        "name": "Hands Up",
+        "description_short": "A channel showcasing everything from hard dance, trance and happy hardcore to lift the spirits (and the arms)."
+    },
+    {
+        "id": 177,
+        "network_id": 1,
+        "name": "Club Dubstep",
+        "description_short": "The bassbin rattling, speaker-freaking hits of Dubstep – all tried, tested and approved to work in the clubs."
+    },
+    {
+        "id": 178,
+        "network_id": 1,
+        "name": "Progressive Psy",
+        "description_short": "Progress your mind to undiscovered psychedelic dimensions."
+    },
+    {
+        "id": 180,
+        "network_id": 1,
+        "name": "Downtempo Lounge",
+        "description_short": "Head nodding beats, chilled vocals, and lush soundscapes to bring down the sun and start the night."
+    },
+    {
+        "id": 181,
+        "network_id": 1,
+        "name": "Dark DnB",
+        "description_short": "Evil, gritty and twisted DnB / Drum & Bass. at 160+ BPM, hear the darkest basslines and the hardest hitting percussion."
+    },
+    {
+        "id": 182,
+        "network_id": 1,
+        "name": "Deep Tech",
+        "description_short": "A fusion of deep house & techno. Punchy grooves, spaced out sounds and forward thinking productions."
+    },
+    {
+        "id": 183,
+        "network_id": 1,
+        "name": "Classic EuroDisco",
+        "description_short": "Conceived in the European discos  in the 70s, evolving through the decades into modern electronic masterpieces."
+    },
+    {
+        "id": 184,
+        "network_id": 1,
+        "name": "Liquid Dubstep",
+        "description_short": "Smooth, rolling and steady – this fresh formation of Dubstep keeps the sounds you love with a flowing Drum and Bass groove.   "
+    },
+    {
+        "id": 198,
+        "network_id": 1,
+        "name": "Glitch Hop",
+        "description_short": "The sound of digital malfunctions, electric hum and bit rate distortions perfectly placed alongside laid-back hip hop beats."
+    },
+    {
+        "id": 208,
+        "network_id": 1,
+        "name": "XEcLectronica",
+        "description_short": "Creative music influenced from techno to chill out, indie to IDM – a unique and undefinable listening experience."
+    },
+    {
+        "id": 209,
+        "network_id": 1,
+        "name": "Big Room House",
+        "description_short": "Fusing together house elements from the past and the present - prime time music full of uplifting high energy."
+    },
+    {
+        "id": 210,
+        "network_id": 1,
+        "name": "EDM Festival",
+        "description_short": "The sound of the largest events. From the gargantuan festivals, the huge main rooms and the biggest DJs."
+    },
+    {
+        "id": 213,
+        "network_id": 1,
+        "name": "Club Hits (Slavic)",
+        "description_short": "The hottest club hits."
+    },
+    {
+        "id": 215,
+        "network_id": 1,
+        "name": "UMF Radio",
+        "description_short": "UMF Radio 24/7"
+    },
+    {
+        "id": 216,
+        "network_id": 1,
+        "name": "XUMF Stage 1",
+        "description_short": "Live from Ultra Music Festival 2013!!"
+    },
+    {
+        "id": 217,
+        "network_id": 1,
+        "name": "XUMF Stage 2",
+        "description_short": "Live from Ultra Music Festival 2013!!"
+    },
+    {
+        "id": 218,
+        "network_id": 1,
+        "name": "XUMF Stage 3",
+        "description_short": "Live from Ultra Music Festival 2013!!"
+    },
+    {
+        "id": 219,
+        "network_id": 1,
+        "name": "XUMF Stage 4",
+        "description_short": "Live from Ultra Music Festival 2013!!"
+    },
+    {
+        "id": 220,
+        "network_id": 1,
+        "name": "XUMF Stage 5",
+        "description_short": "Live from Ultra Music Festival 2013!!"
+    },
+    {
+        "id": 224,
+        "network_id": 1,
+        "name": "ChillHop",
+        "description_short": "Mellow chill beats, lofi hip-hop, trip hop, downtempo beats and jazz, blended together in a laid back style for perfect listening."
+    },
+    {
+        "id": 225,
+        "network_id": 1,
+        "name": "XSankeys Radio",
+        "description_short": "The sound of Sankeys Worldwide."
+    },
+    {
+        "id": 230,
+        "network_id": 1,
+        "name": "Trap",
+        "description_short": "Born out of Southern Hip-Hop and influenced by techno, trap is analog drum machines / DnB & with hip-hop aesthetics."
+    },
+    {
+        "id": 275,
+        "network_id": 1,
+        "name": "Chillstep",
+        "description_short": "The brilliant combination of dubstep rhythms with the mellow grooves of chillout. A unique sound all its own."
+    },
+    {
+        "id": 276,
+        "network_id": 1,
+        "name": "Hard Techno",
+        "description_short": "Tough as nails warehouse jams full of cold aggression, sinister structures and pounding rhythms that hit hard."
+    },
+    {
+        "id": 277,
+        "network_id": 1,
+        "name": "XMoombahton",
+        "description_short": "Hot House meets Dancehall Reggaeton"
+    },
+    {
+        "id": 278,
+        "network_id": 1,
+        "name": "Vocal Lounge",
+        "description_short": "Laid back grooves and a collection of smooth vocals soothe the ears and relax the mind."
+    },
+    {
+        "id": 279,
+        "network_id": 1,
+        "name": "XScouse House",
+        "description_short": "Bouncy and Pumping House Beats"
+    },
+    {
+        "id": 280,
+        "network_id": 1,
+        "name": "Electronic Pioneers",
+        "description_short": "The trailblazers, the renegades and the experimental musicians who gave early inspiration with electronic instruments."
+    },
+    {
+        "id": 285,
+        "network_id": 1,
+        "name": "Psybient",
+        "description_short": "The psychedelic side of ambient."
+    },
+    {
+        "id": 286,
+        "network_id": 1,
+        "name": "Electropop",
+        "description_short": "Catchy pop music blended together with vintage synthesizers and electronic instrumentation. "
+    },
+    {
+        "id": 288,
+        "network_id": 1,
+        "name": "Underground Techno",
+        "description_short": "From gritty Berlin streets to dark corners of Brooklyn, this is techno made by artists pushing the genre further. "
+    },
+    {
+        "id": 289,
+        "network_id": 1,
+        "name": "Bassline",
+        "description_short": "Blending together elements of house music, speed garage, and techno – it’s all about the low end frequencies."
+    },
+    {
+        "id": 290,
+        "network_id": 1,
+        "name": "Bass & Jackin' House",
+        "description_short": "From the funkiest grooves to the dirtiest beats. Hard-hitting, high energy 4/4 club cuts to move the masses."
+    },
+    {
+        "id": 291,
+        "network_id": 1,
+        "name": "Drumstep",
+        "description_short": "A hybrid of half-time Dubstep and intense Drum and Bass / DnB."
+    },
+    {
+        "id": 292,
+        "network_id": 1,
+        "name": "Future Garage",
+        "description_short": "2step Garage rhythms, chunky bass line driven grooves and plenty of forward thinking innovation."
+    },
+    {
+        "id": 293,
+        "network_id": 1,
+        "name": "Jungle",
+        "description_short": "Jungle keeps the breakbeat tempos high and celebrates the diverse ideas found within urban and rave music."
+    },
+    {
+        "id": 294,
+        "network_id": 1,
+        "name": "Nightcore",
+        "description_short": "Pitched up vocals, happy hardcore beats, and high energy music non-stop."
+    },
+    {
+        "id": 295,
+        "network_id": 1,
+        "name": "Nu Disco",
+        "description_short": "Modern disco music blending the familiar funk of the 70s and 80s with futuristic beats and up to date grooves."
+    },
+    {
+        "id": 296,
+        "network_id": 1,
+        "name": "Oldschool Rave",
+        "description_short": "Grab your whistles, white gloves and reach for the laser beams. This is the sound of raving when raving was new."
+    },
+    {
+        "id": 324,
+        "network_id": 1,
+        "name": "00s Club Hits",
+        "description_short": "Your favorite dance tunes from the start of the decade. Familiar hits and overlooked classics in abundance."
+    },
+    {
+        "id": 325,
+        "network_id": 1,
+        "name": "Big Beat",
+        "description_short": "Heavily focused on breakbeats and dusty samples. A defining 90s musical movement still going strong today."
+    },
+    {
+        "id": 326,
+        "network_id": 1,
+        "name": "XEBM",
+        "description_short": "Originating in the early 80s as a mix of industrial, punk and electropop, EBM changed the landscape of dance music and is still going strong today. "
+    },
+    {
+        "id": 327,
+        "network_id": 1,
+        "name": "Electro Swing",
+        "description_short": "The combination of 1920s-1940s jazz and swing music, big band horns and modern day electro house.\r\n"
+    },
+    {
+        "id": 346,
+        "network_id": 1,
+        "name": "Dark PsyTrance",
+        "description_short": "The darker form of PsyTrance, which is a sound all its own – direct from Goa to your headphones."
+    },
+    {
+        "id": 347,
+        "network_id": 1,
+        "name": "XElectronics",
+        "description_short": "30+ years of open-genre electronic music. From spatial ambient sounds to experimental techno and more.\r\n"
+    },
+    {
+        "id": 348,
+        "network_id": 1,
+        "name": "Dub",
+        "description_short": "An emphasis on the bass and drums / DnB, delayed effects, sampled vocals and smokey Reggae inspired vibes."
+    },
+    {
+        "id": 349,
+        "network_id": 1,
+        "name": "Jazz House",
+        "description_short": "One of the biggest cultural soundtracks with the infectious thump of house music. Expect sultry saxophones, trumpets, and finger snapping grooves."
+    },
+    {
+        "id": 350,
+        "network_id": 1,
+        "name": "XIDM",
+        "description_short": "Experimental, influential and pushing the boundaries of electronic music. Truly a sound to experience. "
+    },
+    {
+        "id": 351,
+        "network_id": 1,
+        "name": "Indie Dance",
+        "description_short": "The spirit of Rock & Roll with an electronic soul. Club culture and live music combined."
+    },
+    {
+        "id": 352,
+        "network_id": 1,
+        "name": "Liquid Trap",
+        "description_short": "The smoother side of Trap but still packed with mechanical grooves and hip hop moods. \r\n"
+    },
+    {
+        "id": 353,
+        "network_id": 1,
+        "name": "Detroit House & Techno",
+        "description_short": "Where would dance music be without Detroit? The city that started it all continues to inspire and educate. "
+    },
+    {
+        "id": 355,
+        "network_id": 1,
+        "name": "Dub Techno",
+        "description_short": "The beloved sounds of deep techno saturated with tape delays, heavy reverb and ice cold atmospherics."
+    },
+    {
+        "id": 400,
+        "network_id": 1,
+        "name": "Chill & Tropical House",
+        "description_short": "The sounds of Chill & Tropical House are expertly made for lounging and dancing alike with its deeper house vibes."
+    },
+    {
+        "id": 401,
+        "network_id": 1,
+        "name": "XFuture Beats",
+        "description_short": "Gritty, off-kilter and typically instrumental, the Future Beats sound is perfectly married with modern technology and hip hop idealism."
+    },
+    {
+        "id": 402,
+        "network_id": 1,
+        "name": "Melodic Progressive",
+        "description_short": "The melodic side of progressive house, packed with driving rhythms and forward thinking sounds."
+    },
+    {
+        "id": 403,
+        "network_id": 1,
+        "name": "Atmospheric Breaks",
+        "description_short": "Spaced out, melodic and full of warmth - these broken beat dance tunes will keep you dazed and amused."
+    },
+    {
+        "id": 404,
+        "network_id": 1,
+        "name": "Indie Beats",
+        "description_short": "Smooth, groovy and full of cutting-edge, fresh ideas - beats to kick back and enjoy far from the club setting."
+    },
+    {
+        "id": 424,
+        "network_id": 1,
+        "name": "Future Bass",
+        "description_short": "Hard basslines, booming beats and insatiable grooves. Inspired by Trap, Juke and Garage - molded together into a unique booming style."
+    },
+    {
+        "id": 438,
+        "network_id": 1,
+        "name": "Synthwave",
+        "description_short": "Influenced by video games and movie soundtracks of the 80s, Synthwave's mission continues today with great new music keeping things future retro."
+    },
+    {
+        "id": 445,
+        "network_id": 1,
+        "name": "Vocal House",
+        "description_short": "The glorious 4/4 thump of House music paired perfectly with the human voice. Sultry, soulful, sexy sounds."
+    },
+    {
+        "id": 474,
+        "network_id": 1,
+        "name": "EDM Hits",
+        "description_short": "Where dance meets pop. Crossover favorites, stadium-sized anthems and the biggest electronic tunes in existence."
+    },
+    {
+        "id": 492,
+        "network_id": 1,
+        "name": "LoFi Hip-Hop",
+        "description_short": "Tastefully selected LoFi Hip-Hop tunes with textured atmospheres & laid back beats - with a dash of chillhop and perfectly designed to chill your ears."
+    },
+    {
+        "id": 494,
+        "network_id": 1,
+        "name": "LoFi Lounge & Chill",
+        "description_short": "Punch your one-way ticket to peace of mind and mental clarity with this curated selection of LoFi Lounge & Chill tracks today. "
+    },
+    {
+        "id": 504,
+        "network_id": 1,
+        "name": "Chill EDM",
+        "description_short": "Good EDM doesn’t have to blow out your speakers and our curated selection of Chill EDM is a testament to the strength of mellow, chilled out electronic music."
+    },
+    {
+        "id": 505,
+        "network_id": 1,
+        "name": "Deep Progressive House",
+        "description_short": "This smooth, groove-heavy selection of deep progressive house tracks is the perfect soundtrack for smaller and mid-sized rooms."
+    },
+    {
+        "id": 506,
+        "network_id": 1,
+        "name": "Summer Chill House",
+        "description_short": "This selection of summer chill house classics has been handpicked to elicit that special summer feeling year-round."
+    },
+    {
+        "id": 507,
+        "network_id": 1,
+        "name": "XFuture Vocal Lounge Beats",
+        "description_short": "Get futuristic lounge, downtempo, and bass beats laced with captivating vocals in this handpicked selection of cutting-edge tracks."
+    },
+    {
+        "id": 509,
+        "network_id": 1,
+        "name": "PsyDub",
+        "description_short": "Dub, ambient, and psychedelic trance, fused together in atmospheric harmony.\r\n"
+    },
+    {
+        "id": 517,
+        "network_id": 1,
+        "name": "Deep Organic House",
+        "description_short": "A deeper, more meditative, and slower pace of House music often featuring acoustic and ethnic instrumental samples."
+    },
+    {
+        "id": 518,
+        "network_id": 1,
+        "name": "Slap House",
+        "description_short": "Deep melodic house music with energetic bass rhythms."
+    },
+    {
+        "id": 520,
+        "network_id": 1,
+        "name": "Deep Progressive Trance",
+        "description_short": "A subgenre of Progressive Trance that features a deeper, more emotional and melodic sound."
+    },
+    {
+        "id": 522,
+        "network_id": 1,
+        "name": "ICONYC Radio",
+        "description_short": "ICONYC Radio, is the brand new channel exclusively on the global platform DI.FM. Showcasing forward-thinking Melodic House, Techno, Dark Disco, and Afro. Curated by the artistic team behind the renowned label, ICONYC Radio delivers a finely tuned selection of crafted music by leading innovators, musical tastemakers, and genre-defying artists."
+    }
+]

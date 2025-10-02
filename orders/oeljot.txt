@@ -1,0 +1,56 @@
+#Oldschool Rave
+https://disk.yandex.ru/d/AIlExkuaubLthQ
+
+#World
+https://disk.yandex.ru/d/1zl0IXxqte7XgQ
+
+#Epic Trance
+https://disk.yandex.ru/d/9N0Iqsooxwv3tg
+
+#Deep Progressive Trance
+https://disk.yandex.ru/d/pHd6VyUMZqUUOg
+
+#Oldschool Acid
+https://disk.yandex.ru/d/klyPUr9Y33fo3A
+
+#Chillout
+https://disk.yandex.ru/d/ffrCJn0ZDzuaFA
+
+#Dark PsyTrance
+https://disk.yandex.ru/d/0BA5WTzmljyKtQ
+
+#Deep House
+https://disk.yandex.ru/d/_2GMiuC61RHKug
+
+#?????Oldschool House
+https://disk.yandex.ru/d/j0-45zmYvqUolw
+
+House
+Classic EuroDisco
+Dub Techno
+Dub
+Gabber
+Minimal
+New Age
+Trance
+Techno
+Classic Trance
+Oldschool Techno & Trance
+Progressive Psy
+Chillstep
+Hard Techno
+Underground Techno
+Psy Dub
+Goa trance
+
+purpose=playback&audio_token=615841863e5533f627fa26bd6e921776&network=di&device=chrome_140_windows_10&exp=2025-10-01T07:18:38Z&auth=733bcaf9440f3711c5d3ccaae492adf50ccc0182
+
+purpose=playback&audio_token=39b57ffbf00e21586b5c3fc22cba18ef&network=rockradio&device=chrome_140_windows_10&exp=2025-10-01T10:25:28Z&auth=aa7023c39ffc4116fb393598781e0f057917316e
+
+purpose=playback&audio_token=816f78bf6800f31a7faee7c37696f7b9&network=jazzradio&device=chrome_140_windows_10&exp=2025-10-01T10:26:52Z&auth=51b59d8c8c0dcb9e4a48122e83d4901e1b52fa63
+
+purpose=playback&audio_token=d57e1809157b7181e03ec232dc0a06a9&network=zenradio&device=chrome_140_windows_10&exp=2025-10-01T10:28:03Z&auth=f94aedd80e8a017837458bf81091b0e61ae7e359
+
+purpose=playback&audio_token=f3bf2b60ec382d3899a3985703c1d4af&network=classicalradio&device=chrome_140_windows_10&exp=2025-10-01T10:30:27Z&auth=da0423de311885323e9b5512f63369b0e224386d
+
+purpose=playback&audio_token=615841863e5533f627fa26bd6e921776&network=radiotunes&device=chrome_140_windows_10&exp=2025-10-02T02:28:48Z&auth=4a40f4623dce4a23f0bb2245ea557b0cfacd1069
