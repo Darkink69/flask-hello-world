@@ -87,6 +87,7 @@ def upload_mp3(site, channel, order):
             open(f'orders/{order}.json', "r", encoding='utf-8'))
             # open(f'../orders/{order}.json', "r", encoding='utf-8'))
 
+
         # Записываем последний id скачанного трека
         for current in current_channels:
             if current['id'] == int(channel) and not current['isDownloaded']:
