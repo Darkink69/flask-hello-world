@@ -39,8 +39,7 @@ def upload_one():
     channel = request.args.get('channel')
     id_track = request.args.get('id_track')
     # order = request.args.get('order')
-    res = main_one.upload_one_mp3()
-    # res = main.upload_one_mp3(site, channel, id_track)
+    res = main_one.upload_one_mp3(site, channel, id_track)
     return res
 
 
