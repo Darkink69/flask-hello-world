@@ -10,7 +10,7 @@ def upload_one_mp3(site, channel, id_track):
     # data = get_random_acсess.get_access_data()
     # print(data)
 
-    name_channel = get_name_channel.get_name_channel(site, channel)
-    print(name_channel)
+    # name_channel = get_name_channel.get_name_channel(site, channel)
+    # print(name_channel)
     print(site, channel, id_track, '!!!')
-    return f'работает {channel}, {site}, {id_track}, {name_channel}, {url_ch}'
+    return f'работает {channel}, {site}, {id_track}, {url_ch}'
