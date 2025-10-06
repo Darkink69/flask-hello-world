@@ -42,18 +42,18 @@ else:
 
 tracks = get_json_channel.get_json_channel_tracks(url_ch)
 
-current_channels = json.load(open(f'orders/{order}.json', "r", encoding='utf-8'))
+# current_channels = json.load(open(f'orders/{order}.json', "r", encoding='utf-8'))
 # current_channels = json.load(open(f'../orders/{order}.json', "r", encoding='utf-8'))
 # print(current_channels)
 
 # Проверяем, где остановилась закачка и корректируем
-for current in current_channels:
-	if current['id'] == int(channel) and not current['isDownloaded']:
-		# print(current['id'])
-		for index, track in enumerate(tracks):
-			# if track['id'] == 3107684:
-			if track['id'] == current['lastId']:
-				tracks = tracks[index + 1:]
+# for current in current_channels:
+# 	if current['id'] == int(channel) and not current['isDownloaded']:
+# 		# print(current['id'])
+# 		for index, track in enumerate(tracks):
+# 			# if track['id'] == 3107684:
+# 			if track['id'] == current['lastId']:
+# 				tracks = tracks[index + 1:]
 
 
 # print(tracks)
@@ -81,17 +81,17 @@ for index, track in enumerate(tracks):
 	response = requests.get(url, headers=headers)
 	print(response.text)
 
-	current_channels = json.load(
-		open(f'orders/{order}.json', "r", encoding='utf-8'))
-		# open(f'../orders/{order}.json', "r", encoding='utf-8'))
-
-	# Записываем последний id скачанного трека
-	for current in current_channels:
-		if current['id'] == int(channel) and not current['isDownloaded']:
-			current['lastId'] = track['id']
-			with open(f'orders/{order}.json', 'w') as f:
-			# with open(f'../orders/{order}.json', 'w') as f:
-				json.dump(current_channels, f, indent=2)
+	# current_channels = json.load(
+	# 	open(f'orders/{order}.json', "r", encoding='utf-8'))
+	# 	# open(f'../orders/{order}.json', "r", encoding='utf-8'))
+	#
+	# # Записываем последний id скачанного трека
+	# for current in current_channels:
+	# 	if current['id'] == int(channel) and not current['isDownloaded']:
+	# 		current['lastId'] = track['id']
+	# 		with open(f'orders/{order}.json', 'w') as f:
+	# 		# with open(f'../orders/{order}.json', 'w') as f:
+	# 			json.dump(current_channels, f, indent=2)
 
 	time.sleep(random.randint(10, 20))
 
