@@ -14,4 +14,4 @@ def upload_one_mp3(site, channel, id_track):
     name_channel = get_name_channel.get_name_channel(site, channel)
     print(name_channel)
     print(site, channel, id_track, '!!!')
-    return f'работает {channel}, {site}, {id_track}, {name_channel}\n{data}'
+    return f'работает {channel}, {site}, {id_track}, {name_channel}\n{data}\n{url_ch}'
