@@ -65,7 +65,7 @@ for track in tracks:
 print('Общий размер всех файлов -', round(size / 1024 / 1024 / 1024, 2), 'ГБайт')
 
 # data_link = get_random_acсess.get_access_data()
-data_link = False
+# data_link = False
 
 for index, track in enumerate(tracks):
 	print(f'Трек --------- {index + 1}/{len(tracks)} ---------')
