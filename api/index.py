@@ -30,6 +30,15 @@ def upload():
     channel = request.args.get('channel')
     order = request.args.get('order')
     res = main.upload_mp3(site, channel, order)
+    return (res
+
+@app.route('/upload_one'))
+def upload_one():
+    site = request.args.get('site')
+    channel = request.args.get('channel')
+    id_track = request.args.get('id_track')
+    # order = request.args.get('order')
+    res = main.upload_one_mp3(site, channel, id_track)
     return res
 
 

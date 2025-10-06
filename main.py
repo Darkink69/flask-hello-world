@@ -1,5 +1,7 @@
 import json
 
+from Cython import returns
+
 import get_json_channel
 import get_random_acсess
 import upload_url_file
@@ -24,8 +26,8 @@ def upload_mp3(site, channel, order):
     url_ch = f'https://qh8bsvaksadb2kj9.public.blob.vercel-storage.com/{site}/db_{site}_full_{channel}_premium_light.json'
 
     name_channel = get_name_channel.get_name_channel(site, channel)
-    name_folder = f"difm/{site}/{channel}_Classic EuroDisco/"
-    # name_folder = f"difm/{site}/{channel}_{name_channel}/"
+    # name_folder = f"difm/{site}/{channel}_Classic EuroDisco/"
+    name_folder = f"difm/{site}/{channel}_{name_channel}/"
     exists = check_name_folder.check_folder_exists(oauth_token, name_folder)
     if exists:
         print(f"Папка '{name_folder}' уже есть на Яндекс.Диске")
@@ -72,13 +74,13 @@ def upload_mp3(site, channel, order):
         size += track['size']
     print('Общий размер всех файлов -', round(size / 1024 / 1024 / 1024, 2), 'ГБайт')
 
-    # data_link = get_random_acсess.get_access_data()
+    data_link = get_random_acсess.get_access_data()
 
     # tracks = tracks[:5] # Загружать только первые 5
     for index, track in enumerate(tracks):
         print(f'Трек --------- {index + 1}/{len(tracks)} ---------')
-        file_url = 'https:' + track['url'] + '?' + 'purpose=playback&audio_token=615841863e5533f627fa26bd6e921776&network=di&device=chrome_140_windows_10&exp=2025-10-01T07:18:38Z&auth=733bcaf9440f3711c5d3ccaae492adf50ccc0182'
-        # file_url = 'https:' + track['url'] + '?' + data_link
+        # file_url = 'https:' + track['url'] + '?' + 'purpose=playback&audio_token=615841863e5533f627fa26bd6e921776&network=di&device=chrome_140_windows_10&exp=2025-10-01T07:18:38Z&auth=733bcaf9440f3711c5d3ccaae492adf50ccc0182'
+        file_url = 'https:' + track['url'] + '?' + data_link
         filename = track['track'] + '.mp3'
         res = upload_url_file.upload_file_to_yandex_disk_from_url(oauth_token, name_folder, filename, file_url)
         print(res)
@@ -99,4 +101,10 @@ def upload_mp3(site, channel, order):
 
     return f"Загрузка {site} - {name_channel} завершена."
 
-upload_mp3('di', 183, 'oeljot')
+# upload_mp3('di', 183, 'oeljot')
+
+
+# загрузка по одному, должна быть на сервере
+def upload_one_mp3(site, channel, id_track):
+    print(site, channel, id_track, '!!!')
+    return site, channel, id_track
