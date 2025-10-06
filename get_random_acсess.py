@@ -5,11 +5,11 @@ import random
 import time
 import os
 
-ua = UserAgent()
-
-sites = ['di', 'rockradio', 'radiotunes', 'jazzradio', 'classicalradio', 'zenradio']
 
 def get_access_data():
+    ua = UserAgent()
+    sites = ['di', 'rockradio', 'radiotunes', 'jazzradio', 'classicalradio',
+             'zenradio']
     link = f'https://qh8bsvaksadb2kj9.public.blob.vercel-storage.com/audio/audio_x.json'
     # link = f'https://qh8bsvaksadb2kj9.public.blob.vercel-storage.com/audio/audio.json'
     headers = {"User-Agent": ua.random}
