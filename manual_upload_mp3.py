@@ -3,8 +3,6 @@ import json
 import time
 import random
 
-from js2py.base import false
-
 import check_name_folder
 import get_json_channel
 import get_name_channel
