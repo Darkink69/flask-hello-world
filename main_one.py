@@ -1,6 +1,5 @@
 import get_name_channel
 import get_random_acсess
-from manual_upload_mp3 import data_link
 
 oauth_token = "y0__xC70devARjblgMg3NzV4xMIZ_XCL_u7KWPy_1nYK9cpmiVNUQ"  # Ваш OAuth-токен
 
@@ -15,4 +14,4 @@ def upload_one_mp3(site, channel, id_track):
     name_channel = get_name_channel.get_name_channel(site, channel)
     print(name_channel)
     print(site, channel, id_track, '!!!')
-    return f'работает {channel}, {site}, {id_track}, {name_channel}\n{data_link}'
+    return f'работает {channel}, {site}, {id_track}, {name_channel}\n{data}'
