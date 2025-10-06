@@ -10,12 +10,13 @@ ua = UserAgent()
 sites = ['di', 'rockradio', 'radiotunes', 'jazzradio', 'classicalradio', 'zenradio']
 
 def get_access_data():
-    link = f'https://qh8bsvaksadb2kj9.public.blob.vercel-storage.com/audio/audio.json'
+    link = f'https://qh8bsvaksadb2kj9.public.blob.vercel-storage.com/audio/audio_x.json'
+    # link = f'https://qh8bsvaksadb2kj9.public.blob.vercel-storage.com/audio/audio.json'
     headers = {"User-Agent": ua.random}
     r = requests.get(link, headers=headers)
     tokens = r.json()
     # print('Всего токенов -', len(tokens))
-    for i in range(25):
+    for i in range(2):
         print('Попытка получения токена -', i + 1)
         id = random.randint(1, 15)
         ts = str(int(time.time() * 1000))

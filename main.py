@@ -24,7 +24,7 @@ def upload_mp3(site, channel, order):
     url_ch = f'https://qh8bsvaksadb2kj9.public.blob.vercel-storage.com/{site}/db_{site}_full_{channel}_premium_light.json'
 
     name_channel = get_name_channel.get_name_channel(site, channel)
-    name_folder = f"difm/{site}/{channel}_Oldschool House/"
+    name_folder = f"difm/{site}/{channel}_Classic EuroDisco/"
     # name_folder = f"difm/{site}/{channel}_{name_channel}/"
     exists = check_name_folder.check_folder_exists(oauth_token, name_folder)
     if exists:
@@ -73,11 +73,11 @@ def upload_mp3(site, channel, order):
     print('Общий размер всех файлов -', round(size / 1024 / 1024 / 1024, 2), 'ГБайт')
 
     # data_link = get_random_acсess.get_access_data()
-    x = 'purpose=playback&audio_token=615841863e5533f627fa26bd6e921776&network=di&device=chrome_140_mac_os_x_10_15_7&exp=2025-10-06T05:29:25Z&auth=e0d89a008674cb80a81f30db5f3055dc7124c52d'
+
     # tracks = tracks[:5] # Загружать только первые 5
     for index, track in enumerate(tracks):
         print(f'Трек --------- {index + 1}/{len(tracks)} ---------')
-        file_url = 'https:' + track['url'] + '?' + x
+        file_url = 'https:' + track['url'] + '?' + 'purpose=playback&audio_token=615841863e5533f627fa26bd6e921776&network=di&device=chrome_140_windows_10&exp=2025-10-01T07:18:38Z&auth=733bcaf9440f3711c5d3ccaae492adf50ccc0182'
         # file_url = 'https:' + track['url'] + '?' + data_link
         filename = track['track'] + '.mp3'
         res = upload_url_file.upload_file_to_yandex_disk_from_url(oauth_token, name_folder, filename, file_url)
@@ -87,7 +87,6 @@ def upload_mp3(site, channel, order):
             open(f'orders/{order}.json', "r", encoding='utf-8'))
             # open(f'../orders/{order}.json', "r", encoding='utf-8'))
 
-
         # Записываем последний id скачанного трека
         for current in current_channels:
             if current['id'] == int(channel) and not current['isDownloaded']:
@@ -96,8 +95,8 @@ def upload_mp3(site, channel, order):
                 # with open(f'../orders/{order}.json', 'w') as f:
                     json.dump(current_channels, f, indent=2)
 
-        time.sleep(random.randint(10, 30))
+        time.sleep(random.randint(10, 20))
 
     return f"Загрузка {site} - {name_channel} завершена."
 
-upload_mp3('di', 104, 'oeljot')
+upload_mp3('di', 183, 'oeljot')
