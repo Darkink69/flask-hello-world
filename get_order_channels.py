@@ -1,8 +1,6 @@
 import requests
 import json
 
-from js2py.base import false
-
 
 def process_channels(file):
     # Читаем названия каналов из файла
