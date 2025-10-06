@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+import main_one
 import redis_set
 import main
 import get_order_channels
@@ -38,7 +39,7 @@ def upload_one():
     channel = request.args.get('channel')
     id_track = request.args.get('id_track')
     # order = request.args.get('order')
-    res = main.upload_one_mp3()
+    res = main_one.upload_one_mp3()
     # res = main.upload_one_mp3(site, channel, id_track)
     return res
 
