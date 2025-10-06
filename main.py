@@ -1,7 +1,5 @@
 import json
 
-from Cython import returns
-
 import get_json_channel
 import get_random_acсess
 import upload_url_file
